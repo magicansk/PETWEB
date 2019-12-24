@@ -1,0 +1,63 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; }
+.content article { background-color: none; margin: 10px; text-align: center; width: 400px; border: #ddd 1px solid; }
+.content div { background-color: none; margin: 10px auto; width: 80%; text-align: left; }
+.content h2 { padding: 10px; }
+/* .title { display: flex; justify-content: center; background-color: none; padding-top: 10px; margin-top: 10px; } */
+/*------各區域尺寸語法結束------*/
+
+/*------Ana寫的語法開始------*/
+section h2 {
+    font-size: 16pt;
+    font-family: 微軟正黑體;
+    color: peru;
+}
+
+section p {
+    font-size: 14pt;
+    font-family: 微軟正黑體;
+}
+
+section button {
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(50, 50, 50);
+    cursor: pointer;
+    background-color: white;
+    padding: 6px 15px;
+    /* transition: all 0.5s ease 0s; 
+    padding: 6px 15px; 
+    outline: none; 
+    background-color: transparent;  */
+
+}
+
+section button:hover {
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 2px solid;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    outline: none;
+    padding: 6px 15px;
+    background-color: #E1A679;
+
+}
+/*------Ana寫的語法結束------*/
+

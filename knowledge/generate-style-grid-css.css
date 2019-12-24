@@ -1,0 +1,477 @@
+
+body {
+    background-color: #efefef;
+    color: #666666;
+}
+
+a,
+a:visited {
+    color: #000000;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #fed136;
+}
+
+body .grid-container {
+    max-width: 1100px;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    line-height: 1.8;
+}
+
+p {
+    margin-bottom: 2em;
+}
+
+.entry-content>[class*="wp-block-"]:not(:last-child) {
+    margin-bottom: 2em;
+}
+
+.main-navigation .main-nav ul ul li a {
+    font-size: 14px;
+}
+
+.widget-title {
+    margin-bottom: 2px;
+}
+
+.sidebar .widget,
+.footer-widgets .widget {
+    font-size: 15px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 45px;
+}
+
+@media (max-width:768px) {
+    .main-title {
+        font-size: 30px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+}
+
+.top-bar {
+    background-color: #0a0a0a;
+    color: #ffffff;
+}
+
+.top-bar a,
+.top-bar a:visited {
+    color: #B35C37;
+}
+
+.top-bar a:hover {
+    color: #303030;
+}
+
+.site-header {
+    background-color: #ffffff;
+    color: #3a3a3a;
+}
+
+.site-header a,
+.site-header a:visited {
+    color: #3a3a3a;
+}
+
+.main-title a,
+.main-title a:hover,
+.main-title a:visited {
+    color: #222222;
+}
+
+.site-description {
+    color: #B35C37;
+}
+
+.main-navigation,
+.main-navigation ul ul {
+    background-color: #222222;
+}
+
+.main-navigation .main-nav ul li a,
+.menu-toggle {
+    color: #ffffff;
+}
+
+.main-navigation .main-nav ul li:hover>a,
+.main-navigation .main-nav ul li:focus>a,
+.main-navigation .main-nav ul li.sfHover>a {
+    color: #B35C37;
+    background-color: #3f3f3f;
+}
+
+button.menu-toggle:hover,
+button.menu-toggle:focus,
+.main-navigation .mobile-bar-items a,
+.main-navigation .mobile-bar-items a:hover,
+.main-navigation .mobile-bar-items a:focus {
+    color: #ffffff;
+}
+
+.main-navigation .main-nav ul li[class*="current-menu-"]>a {
+    color: #222222;
+    background-color: #B35C37;
+}
+
+.main-navigation .main-nav ul li[class*="current-menu-"]>a:hover,
+.main-navigation .main-nav ul li[class*="current-menu-"].sfHover>a {
+    color: #222222;
+    background-color: #B35C37;
+}
+
+.navigation-search input[type="search"],
+.navigation-search input[type="search"]:active {
+    color: #3f3f3f;
+    background-color: #3f3f3f;
+}
+
+.navigation-search input[type="search"]:focus {
+    color: #B35C37;
+    background-color: #3f3f3f;
+}
+
+.main-navigation ul ul {
+    background-color: #3f3f3f;
+}
+
+.main-navigation .main-nav ul ul li a {
+    color: #ffffff;
+}
+
+.main-navigation .main-nav ul ul li:hover>a,
+.main-navigation .main-nav ul ul li:focus>a,
+.main-navigation .main-nav ul ul li.sfHover>a {
+    color: #222222;
+    background-color: #B35C37;
+}
+
+.main-navigation .main-nav ul ul li[class*="current-menu-"]>a {
+    color: #ffffff;
+    background-color: #4f4f4f;
+}
+
+.main-navigation .main-nav ul ul li[class*="current-menu-"]>a:hover,
+.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover>a {
+    color: #ffffff;
+    background-color: #4f4f4f;
+}
+
+.separate-containers .inside-article,
+.separate-containers .comments-area,
+.separate-containers .page-header,
+.one-container .container,
+.separate-containers .paging-navigation,
+.inside-page-header {
+    background-color: #ffffff;
+}
+
+.entry-meta {
+    color: #595959;
+}
+
+.entry-meta a,
+.entry-meta a:visited {
+    color: #666666;
+}
+
+.entry-meta a:hover {
+    color: #B35C37;
+}
+
+.sidebar .widget {
+    background-color: #ffffff;
+}
+
+.sidebar .widget .widget-title {
+    color: #000000;
+}
+
+.footer-widgets {
+    background-color: #ffffff;
+}
+
+.footer-widgets .widget-title {
+    color: #000000;
+}
+
+.site-info {
+    color: #ffffff;
+    background-color: #222222;
+}
+
+.site-info a,
+.site-info a:visited {
+    color: #ffffff;
+}
+
+.site-info a:hover {
+    color: #606060;
+}
+
+.footer-bar .widget_nav_menu .current-menu-item a {
+    color: #606060;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="number"],
+textarea,
+select {
+    color: #666666;
+    background-color: #fafafa;
+    border-color: #cccccc;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="number"]:focus,
+textarea:focus,
+select:focus {
+    color: #666666;
+    background-color: #ffffff;
+    border-color: #bfbfbf;
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"],
+a.button,
+a.button:visited,
+a.wp-block-button__link:not(.has-background) {
+    color: #ffffff;
+    background-color: #222222;
+}
+
+button:hover,
+html input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+a.button:hover,
+button:focus,
+html input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+a.button:focus,
+a.wp-block-button__link:not(.has-background):active,
+a.wp-block-button__link:not(.has-background):focus,
+a.wp-block-button__link:not(.has-background):hover {
+    color: #222222;
+    background-color: #B35C37;
+}
+
+.generate-back-to-top,
+.generate-back-to-top:visited {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #ffffff;
+}
+
+.generate-back-to-top:hover,
+.generate-back-to-top:focus {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+}
+
+.inside-header {
+    padding: 30px 40px 20px 40px;
+}
+
+.entry-content .alignwide,
+body:not(.no-sidebar) .entry-content .alignfull {
+    margin-left: -40px;
+    width: calc(100% + 80px);
+    max-width: calc(100% + 80px);
+}
+
+.rtl .menu-item-has-children .dropdown-menu-toggle {
+    padding-left: 20px;
+}
+
+.rtl .main-navigation .main-nav ul li.menu-item-has-children>a {
+    padding-right: 20px;
+}
+
+@media (max-width:768px) {
+
+    .separate-containers .inside-article,
+    .separate-containers .comments-area,
+    .separate-containers .page-header,
+    .separate-containers .paging-navigation,
+    .one-container .site-content,
+    .inside-page-header {
+        padding: 30px;
+    }
+
+    .entry-content .alignwide,
+    body:not(.no-sidebar) .entry-content .alignfull {
+        margin-left: -30px;
+        width: calc(100% + 60px);
+        max-width: calc(100% + 60px);
+    }
+}
+
+.one-container .sidebar .widget {
+    padding: 0px;
+}
+
+@media (max-width: 768px) {
+
+    .main-navigation .menu-toggle,
+    .main-navigation .mobile-bar-items,
+    .sidebar-nav-mobile:not(#sticky-placeholder) {
+        display: block;
+    }
+
+    .main-navigation ul,
+    .gen-sidebar-nav {
+        display: none;
+    }
+
+    [class*="nav-float-"] .site-header .inside-header>* {
+        float: none;
+        clear: both;
+    }
+}
+
+@font-face {
+    font-family: "GeneratePress";
+    src: url("https://www.ifurry.com.tw/wp-content/themes/generatepress/fonts/generatepress.eot");
+    src: url("https://www.ifurry.com.tw/wp-content/themes/generatepress/fonts/generatepress.eot#iefix") format("embedded-opentype"), url("https://www.ifurry.com.tw/wp-content/themes/generatepress/fonts/generatepress.woff2") format("woff2"), url("https://www.ifurry.com.tw/wp-content/themes/generatepress/fonts/generatepress.woff") format("woff"), url("https://www.ifurry.com.tw/wp-content/themes/generatepress/fonts/generatepress.ttf") format("truetype"), url("https://www.ifurry.com.tw/wp-content/themes/generatepress/fonts/generatepress.svg#GeneratePress") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.main-navigation .slideout-toggle a:before,
+.slide-opened .slideout-overlay .slideout-exit:before {
+    font-family: GeneratePress;
+}
+
+.slideout-navigation .dropdown-menu-toggle:before {
+    content: "\f107" !important;
+}
+
+.slideout-navigation .sfHover>a .dropdown-menu-toggle:before {
+    content: "\f106" !important;
+}
+
+.navigation-branding .main-title {
+    font-weight: bold;
+    text-transform: none;
+    font-size: 45px;
+}
+
+@media (max-width: 768px) {
+    .navigation-branding .main-title {
+        font-size: 30px;
+    }
+}
+</style>
+<link rel="stylesheet" id="generate-mobile-style-css"
+href="https://www.ifurry.com.tw/wp-content/themes/generatepress/css/mobile.min.css?ver=2.3.2" type="text/css"
+media="all">
+<link rel="stylesheet" id="font-awesome-css"
+href="https://www.ifurry.com.tw/wp-content/themes/generatepress/css/font-awesome.min.css?ver=4.7"
+type="text/css" media="all">
+<link rel="stylesheet" id="generate-blog-css"
+href="https://www.ifurry.com.tw/wp-content/plugins/gp-premium/blog/functions/css/style-min.css?ver=1.8.3"
+type="text/css" media="all">
+<link rel="stylesheet" id="qlwcdc-css"
+href="https://www.ifurry.com.tw/wp-content/plugins/woocommerce-direct-checkout/assets/frontend/qlwcdc.css?ver=2.2.8"
+type="text/css" media="all">
+<link rel="stylesheet" id="generate-secondary-nav-css"
+href="https://www.ifurry.com.tw/wp-content/plugins/gp-premium/secondary-nav/functions/css/style.min.css?ver=1.8.3"
+type="text/css" media="all">
+<style id="generate-secondary-nav-inline-css" type="text/css">
+.secondary-navigation {
+    background-color: #B35C37;
+}
+
+.secondary-navigation .main-nav ul li a,
+.secondary-navigation .menu-toggle {
+    color: #000000;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 30px;
+}
+
+button.secondary-menu-toggle:hover,
+button.secondary-menu-toggle:focus {
+    color: #000000;
+}
+
+.widget-area .secondary-navigation {
+    margin-bottom: 20px;
+}
+
+.secondary-navigation ul ul {
+    background-color: #303030;
+    top: auto;
+}
+
+.secondary-navigation .main-nav ul ul li a {
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.secondary-navigation .menu-item-has-children .dropdown-menu-toggle {
+    padding-right: 10px;
+}
+
+.secondary-navigation .main-nav ul li:hover>a,
+.secondary-navigation .main-nav ul li:focus>a,
+.secondary-navigation .main-nav ul li.sfHover>a {
+    color: #ffffff;
+    background-color: #B35C37;
+}
+
+.secondary-navigation .main-nav ul ul li:hover>a,
+.secondary-navigation .main-nav ul ul li:focus>a,
+.secondary-navigation .main-nav ul ul li.sfHover>a {
+    color: #222222;
+    background-color: #B35C37;
+}
+
+.secondary-navigation .main-nav ul li[class*="current-menu-"]>a,
+.secondary-navigation .main-nav ul li[class*="current-menu-"]>a:hover,
+.secondary-navigation .main-nav ul li[class*="current-menu-"].sfHover>a {
+    color: #222222;
+    background-color: #ffffff;
+}
+
+.secondary-navigation .main-nav ul ul li[class*="current-menu-"]>a,
+.secondary-navigation .main-nav ul ul li[class*="current-menu-"]>a:hover,
+.secondary-navigation .main-nav ul ul li[class*="current-menu-"].sfHover>a {
+    color: #ffffff;
+    background-color: #474747;
+}

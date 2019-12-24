@@ -1,0 +1,20 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; }
+.content div { padding: 10px; margin: 20px 20px; flex: none; text-align: center;}
+.content img { width: 60%; }
+.content h1,h2,h3 { font-family: 微軟正黑體; }
+.content h1 { font-size: 20pt; text-align: center;}
+.content h2 { font-size: 14pt; font-weight: normal; text-align: center; }
+.content h3 { color: #fff; text-align: center; font-size: 12pt; background-color: #000; border-radius: 20px; }
+.content p.text { text-align: left; }
+/*------各區域尺寸語法結束------*/

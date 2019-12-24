@@ -1,0 +1,35 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; }
+.title { flex:auto; background-color:coral; text-align:center; font-size:42px;}
+.title img{width:100%}
+.k9_item { padding: 0px 10px; }
+.k9_item h3{font-size:20px;margin:0px 0;text-align:center}
+.k9_item p{margin:auto;font-size:16px;text-align:left;margin:20px 0; text-indent: 2em;}
+.k9 { background: none; text-align: center;}
+.pic { margin: 40px 0 20px 0;}
+.text1 h1,.text1 h2,.text1 h3 { color: #15397f; }
+.text2 h1,.text2 h2,.text2 h3 { color: #dc8b0c; }
+.text3 h1,.text3 h2,.text3 h3 { color: #008045; }
+.text1 h1,.text2 h1,.text3 h1 { font-size: 18pt; font-weight: bold; }
+.text1 h2,.text2 h2,.text3 h2 { font-size: 12pt; }
+.text1 h3,.text2 h3,.text3 h3 { font-size: 12pt; font-weight: bold; }
+.k9 p { text-align: left; }
+/*------各區域尺寸語法結束------*/
+
+@media only screen and (max-width: 1023px) {
+    .title{ font-size: 32px; }
+}
+
+@media only screen and (max-width: 500px) {
+    .text1 h2,.text2 h2,.text3 h2 { text-align: left; }
+}

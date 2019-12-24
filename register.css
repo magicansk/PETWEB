@@ -1,0 +1,43 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+/*------各區域尺寸語法結束------*/
+
+/*------register table語法開始------*/
+.tbregister { text-align: left; width: auto; margin: 10px auto; }
+.tbregister input.textbox { font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 10px; padding:5px 15px; border:1px gray solid;
+    cursor:pointer; -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+.tbregister input.textbox:focus { border: 2px #33CCFF solid;}
+.tbregister input.textbox:focus::placeholder { color: #33CCFF; }
+.tbregister td.mark { font-size: 10pt; font-family: 微軟正黑體; line-height: 5px; }
+.tbregister input.sex[type="radio"]{ display: none; }
+.tbregister span.sex,
+.tbregister span.date,
+.tbregister label { font-family: 微軟正黑體; font-size: 14pt; }
+.tbregister span.sex { display: inline-block; color: gray; background-color: #FFFFFF; border: 1px gray solid;
+    cursor: pointer; margin: 10px 10px; padding:3px 15px;  -webkit-border-radius: 15px; border-radius: 15px; }
+.tbregister input.sex[type="radio"] + label { display: inline-block; color: gray; background-color: #FFFFFF; border: none;
+    cursor: pointer; margin: 0px 5px; padding:10px 18px;  -webkit-border-radius: 15px; border-radius: 15px; }
+.tbregister input.sex[type="radio"]:checked + label { background-color: #33CCFF; border: none; color: #000000;
+    -webkit-border-radius: 15px; border-radius: 15px; }
+.tbregister span.date { display: inline-block; color: gray; background-color: #FFFFFF; border: 1px gray solid;
+    cursor: pointer; margin: 10px 10px; padding:3px 15px;  -webkit-border-radius: 15px; border-radius: 15px; }
+.tbregister input.date { font-family: 微軟正黑體; text-align: right; font-size: 14pt; line-height: 40px; margin: 0px 26px; padding: 0px 0px; cursor:pointer; border:none; outline:none; }
+.tbregister input[type=date]::-webkit-calendar-picker-indicator { border-radius: 7px; background-color: deeppink; background-image: -webkit-linear-gradient(top, deeppink, darkorange); color: #FFF; }
+.tbregister input[type=date]::-webkit-inner-spin-button { visibility: hidden; }
+.tbregister td.join { text-align: center; }
+.tbregister input.submit,
+.tbregister input.reset { color: #FFFFFF; font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 25px 10px; padding: 0px 15px;
+    -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+.tbregister input.submit { background-color: orange; border:1px orange solid; }
+.tbregister input.reset { background-color: #3b5998; border:1px #3b5998 solid; }
+/*------register table語法結束------*/
+

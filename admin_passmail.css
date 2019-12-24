@@ -1,0 +1,26 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.errDiv { flex: none; width: 100%; color: #FFFFFF; background-color: #f5b330; font-size:16pt; font-family: 微軟正黑體; text-align: center;}
+.content>.passmail { flex: none; width:100%; margin: 50px 0px; text-align: center; background-color: #FFFFFF; }
+/*------各區域尺寸語法結束------*/
+
+/*------signin table語法開始------*/
+input.textbox { font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 10px; padding:5px 15px; border:1px gray solid;
+    cursor:pointer; -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+input.textbox:focus { border: 2px #33CCFF solid;}
+input.textbox:focus::placeholder { color: #33CCFF; }
+
+
+input.submit { color: #FFFFFF; font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 5px; padding:5px 15px; cursor:pointer;
+    -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+input.submit { background-color: #3b5998; border:1px #3b5998 solid; }
+/*------signin table語法結束------*/

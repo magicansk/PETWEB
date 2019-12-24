@@ -1,0 +1,38 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.m-adm{ display: flex; flex-wrap: wrap; align-items: center; justify-content: center; text-align: center; background-color: none; }
+.m-adm>.m-admbox { flex: none; width: 200px; height: auto; padding: 5px 0px; margin: 0px 2px; }
+.m-adm>.m-adm-list { flex: none; width: 100%; background-color: none;}
+
+/*------各區域尺寸語法結束------*/
+
+/*------網站會員管理表單語法開始------*/
+.m-adm a { text-decoration: none; }
+.m-adm .m-admbox label { font-size: 12pt; font-family: 微軟正黑體; font-weight: 900; }
+
+table.m-adm-list { width: auto; margin: 5px auto; border-collapse: collapse; border:1px solid black; }
+table.m-adm-list p { font-size: 12pt; font-family: 微軟正黑體; }
+
+td.m-adm-list-1,td.m-adm-list-2,td.m-adm-list-3,td.m-adm-list-4,td.m-adm-list-5,td.m-adm-list-6 {
+    font-weight: 900; text-align: center; background-color: #ABEBC6; border-collapse: collapse; border:1px solid rgb(60, 60, 60); }
+td.m-adm_list-1 { width: 90px; }
+td.m-adm-list-2 { width: 150px; }
+td.m-adm-list-3 { width: 180px; }
+td.m-adm-list-4 { width: 180px; }
+td.m-adm-list-5 { width: 70px; }
+td.m-adm-list-6 { width: 50px; }
+
+td.m-adm-list { text-align: center; border-collapse: collapse; border:1px solid rgb(60, 60, 60);}
+
+table.m_adm_ctl { margin: auto; }
+table.m_adm_ctl,
+table.m_adm_ctl span{ font-family: 微軟正黑體; font-size: 12pt; text-align: center; }

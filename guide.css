@@ -1,0 +1,19 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; align-items:center; }
+.content div { padding: 10px; margin: 20px 20px; flex: none; }
+.content h1,h2,h3 { padding: 10px; font-family: 微軟正黑體; }
+.content h1 { font-size: 20pt; text-align: center;}
+.content h2 { color: #fff; text-align: center; font-size: 12pt; background-color: #000; border-radius: 20px; }
+.content h3 { text-align: center; }
+.content p.title { text-align: center; }
+/*------各區域尺寸語法結束------*/

@@ -1,0 +1,26 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+*{ box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; }
+body{ margin: 0; padding: 0; }
+
+/*------各區域尺寸語法開始------*/
+.login { display: flex; flex-wrap: wrap; height: 60px; justify-content: center; align-items: center; background-color: #FFFFFF; }
+.login>.loginbtm { flex: none; background-color: none; }
+/*------各區域尺寸語法結束------*/
+
+/*------切換signin/register語法開始------*/
+.loginbtm label { font-family: 微軟正黑體; font-size: 14pt;}
+.loginbtm input[type="radio"]{ display: none;}
+.loginbtm input[type="radio"] + label{ display: inline-block; background-color: #FFFFFF; border: 1px #DDDDDD solid;
+    cursor: pointer; padding: 5px 30px; -webkit-border-radius: 15px; border-radius: 15px; }
+.loginbtm input[type="radio"]:checked + label { background-color: #33CCFF; border: 2px #33CCFF solid; color: #FFFFFF;
+    -webkit-border-radius: 15px; border-radius: 15px; }
+/*------切換signin/register語法結束------*/

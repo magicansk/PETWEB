@@ -1,0 +1,23 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; background-color: none; margin: 15px;}
+.content .petdata { background-color: none; padding: 15px; display: flex; flex-wrap: wrap; border: #ddd 1px solid; box-shadow: 2px 3px 0px 2px rgba(200, 200, 200, 0.5);}
+.content .back { background-color: none; width: 100%; order: -2; text-align: center; margin-bottom: 10px;}
+.content .name { background-color: none; margin-left: 2%; width: 68%; font-family: 微軟正黑體; }
+.content span.title { font-weight: 900; }
+.content .img { background-color: none; order: -1; width: 30%; }
+.content img { width: 100%; }
+/*------各區域尺寸語法結束------*/
+
+/*------nodata語法開始------*/
+.nodata { background-color: #ddd; text-align: center; margin: 155px 0; }
+/*------nodata語法結束------*/

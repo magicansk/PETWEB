@@ -1,0 +1,24 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; background-color: none; }
+.content .item { background-color: none; margin: 10px; padding: 20px; text-align: center; border: #ccc 1px solid; box-shadow: 2px 3px 0px 2px rgba(200, 200, 200, 0.5); }
+.content .slick { background-color: none; }
+.slick img { width: 300px; }
+.content .text { background-color: none; }
+.content .ctl { background-color: none; margin-top: 10px; }
+.ctl a { text-decoration-line: none; color: #000; border: #000 1px solid; font-size: 20px; margin: 0 5px; padding: 3px;}
+.ctl a:hover { font-weight: 900; }
+
+.item>a { text-decoration-line: none; display: flex; flex-direction: column; justify-content: center; height: 100%; }
+.addpet img { width: 60%; }
+.addtext { font-size: 30px; color: #bbb; margin-top: 20px;}
+/*------各區域尺寸語法結束------*/

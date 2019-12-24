@@ -1,0 +1,27 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; }
+.rowpair,.rowpair2 { display: flex; flex-wrap: wrap; margin: 10px; background-color: none; border: #ddd 1px solid; box-shadow: 2px 3px 0px 2px rgba(200, 200, 200, 0.5); }
+.rowpair2 { flex-direction: row-reverse; }
+.rowpair .title,.rowpair2 .title { background-color: none; width: 100%; text-align: center; order: -3; padding-top: 10px;}
+.rowpair .title b { font-size: 20px; }
+.rowpair2 .title b { font-size: 32px; }
+.rowpair2 .title2 { background-color: none; width: 100%; text-align: center; order: -2;}
+.rowpair .text,.rowpair2 .text { background-color: none; width: 70%; padding: 10px; }
+.rowpair .monster { background-color: none; }
+.rowpair .img { width: 30%; order: -1; padding: 10px; }
+.rowpair2 .img2 { width: 30%; padding: 10px; }
+/*------各區域尺寸語法結束------*/
+
+/*------nodata語法開始------*/
+.nodata { background-color: #ddd; text-align: center; margin: 161px 0; }
+/*------nodata語法結束------*/

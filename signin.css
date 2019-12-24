@@ -1,0 +1,40 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+/*------各區域尺寸語法結束------*/
+
+/*------signin table語法開始------*/
+.tbsignin { margin: 30px auto; text-align: left; width: auto; }
+.tbsignin input.textbox { font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 10px; padding:5px 15px; border:1px gray solid;
+    cursor:pointer; -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+.tbsignin input.textbox:focus,
+.tbsignin input.test:focus { border: 2px #33CCFF solid;}
+.tbsignin input.textbox:focus::placeholder
+.tbsignininput.test:focus::placeholder { color: #33CCFF; }
+.tbsignin td.test { text-align: center; }
+.tbsignin img { margin: -19px 0; width: 110px; height: 50px;}
+.tbsignin input.test { font-family: 微軟正黑體; font-size: 12pt; line-height: 40px; margin: 10px; padding:0px 15px; border:1px gray solid;
+  cursor:pointer; -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+.tbsignin td.err { color: #FF0000; font-size:12pt; font-family: 微軟正黑體; text-align: center; }
+.tbsignin input.rpbox[type=checkbox] { margin: 0px 8px; top: 3px; cursor: pointer; width: 15px; height: 20px; position: relative; }
+.tbsignin input.rpbox[type=checkbox]:after { position: absolute; width: 15px; height: 20px; top: 0; content: " "; background-color: orange; color: #fff;
+  display: inline-block; visibility: visible; padding: 0px 3px; border-radius: 3px; }
+.tbsignin input.rpbox[type=checkbox]:checked:after { content: "✓"; font-size: 15px; text-align: center; }
+.tbsignin td.rpasswd { font-family: 微軟正黑體; font-size: 14pt; text-align: left; line-height: 45px;}
+.tbsignin td.fpasswd { font-family: 微軟正黑體; font-size: 14pt; text-align: right; line-height: 45px; }
+.tbsignin td.fpasswd a { color: #000000; text-decoration-line: none; }
+.tbsignin td.submit { text-align: center }
+.tbsignin input.submit,
+.tbsignin input.fabk{ color: #FFFFFF; font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 30px 10px 0px 10px; padding:5px 25px; cursor:pointer;
+    -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+.tbsignin input.submit { background-color: orange; border:1px orange solid; }
+.tbsignin input.fabk { background-color: #3b5998; border:1px #3b5998 solid; }
+/*------signin table語法結束------*/

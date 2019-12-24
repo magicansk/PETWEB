@@ -1,0 +1,349 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------rightheader選單語法開始------*/
+ul.rightheader {
+    display: inline-block;
+    font-family: 微軟正黑體;
+    font-size: 12pt;
+}
+
+ul.rightheader li.step1 {
+    position: relative;
+    white-space: nowrap;
+}
+
+ul.rightheader label.ctlside,
+ul.rightheader a.step1 {
+    background-color: #fff;
+    color: #7B7D7D;
+    display:block;
+    text-decoration: none;
+    line-height: 43px;
+}
+
+ul.rightheader a.step1:hover {
+    position: relative;
+    font-weight: 900;
+}
+
+ul.rightheader img {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 5px;
+    left: -5px;
+}
+
+ul.rightheader form {
+    position: relative;
+    border: 2px #7B7D7D solid;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 5px 10px;
+    margin: 2px 15px 2px 3px;
+}
+
+ul.rightheader form input,
+ul.rightheader form button {
+    border: none;
+    color: 000;
+}
+
+ul.rightheader form input { 
+    width: 130px;
+    line-height: 22px;
+}
+
+ul.rightheader form button {
+    position: absolute;
+    top: 3px;
+    right: 5px;
+    background-color: fff;
+}
+
+ul.rightheader img.ser {
+    top: 0;
+    left: 0;
+}
+ul.rightheader form input:focus,
+ul.rightheader form button:focus {
+    outline: none;
+}
+
+ul.rightheader li.step1:hover {
+    border-bottom: 1px #7B7D7D solid;
+}
+
+ul.rightheader li.step1:hover:last-child {
+    border-bottom: none;
+}
+
+/*------第一層結束---第二層開始*------*/
+    
+ul.rightheader ul {
+    border: none;
+    position: absolute;
+    left: 30px;
+    top: 41px;
+    z-index: 99;
+    top: 100%;
+    line-height: 40px;
+    display: none;
+    left: 30px;
+}
+
+ul.rightheader li:hover > ul {
+    display: block;
+    left: 30px;
+}
+
+ul.rightheader a.step2 {
+    display: block;
+    padding: 0px 30px;
+    background-color: #fff;
+    color: #7B7D7D;
+    text-align: left;
+    text-decoration: none;
+    line-height: 35px;
+}
+   
+ul.rightheader a.step2:hover {
+    font-weight: 900;
+}
+/*------rightheader選單語法結束------*/
+
+
+/*------nav下拉選單語法開始:第一層------*/
+ul.drop-down-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 微軟正黑體;
+    font-size: 12pt;
+}
+    
+ul.drop-down-menu li {
+    position: relative;
+    white-space: nowrap;
+}
+    
+ul.drop-down-menu a {
+    background-color: #fff;
+    color: #333;
+    display: block;
+    text-decoration: none;
+    line-height: 45px;
+    transition: background-color 0.3s;
+}
+    
+ul.drop-down-menu a:hover {
+    background-color: #F8C471;
+    color: #000000;
+}
+
+ul.drop-down-menu li:hover > a {
+    background-color: #F8C471;
+    color: #000000;
+}
+    
+ul.drop-down-menu img {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 5px;
+    left: -5px;
+}
+
+/*------nav下拉選單語法結束:第一層------*/
+/*------nav下拉選單語法開始:第二層------*/
+
+ul.drop-down-menu ul {
+    border: none;
+    position: absolute;
+    left: 0px;
+    top: 100%;
+    z-index: 99;
+    line-height: 40px;
+    box-shadow: 5px 5px 3px hsla(240 , 40%, 15%, .6);
+    display: none;
+}
+    
+ul.drop-down-menu li:hover > ul {
+    display: block;
+}
+/*------nav下拉選單語法結束:第二層------*/
+/*------nav下拉選單語法結束------*/
+
+/*------breadcrumb導覽列語法開始------*/
+ul.breadcrumb {
+    display: flex;
+}
+
+ul.breadcrumb li + li::before {
+    content: ">";
+}
+
+ul.breadcrumb a {
+    color: grey;
+    background-color: #FFFFFF;
+    text-decoration: none;
+}
+    
+ul.breadcrumb a:hover {
+    color: grey;
+    background-color: gold;
+    text-decoration: none;
+}
+    
+ul.breadcrumb span {
+    color: black;
+    background-color: #FFFFFF;
+    font-family: 微軟正黑體;
+    font-size: 10pt;
+    font-weight: bold;
+    padding: 0px 5px;
+}
+/*------breadcrumb導覽列語法結束------*/
+
+/**/
+.sidebar {
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    left: -500px;
+}
+.side-menu {
+    transform: translateX(-650%);
+    transition: .1s;
+}
+.side-menu label {
+    position: absolute;
+    width: 1300px;
+    height: 1000px;
+    background-color: rgba(0, 0, 0, .6);
+    right: -1100px;
+    top: -30;
+    bottom: 0;
+    margin: auto;
+}
+#side-menu-switch {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+}
+#side-menu-switch:checked + .side-menu {
+    transform: translateX(500px);
+}
+#side-menu-switch:checked + .side-menu label img { 
+    transform: scaleX(-1);
+}
+.snav {
+    z-index: 1;
+    position: relative;
+    width: 200px;
+    height: 100%;
+    padding: 50px 0;
+    box-sizing: border-box;
+    background: linear-gradient(to top, #f86cd0 0%, #f19d4e 100%);
+    display: flex;
+    flex-direction: column;
+    border-radius: 0 0px 10px 0;
+    box-shadow: 5px 0px 10px hsla(240 , 40%, 15%, .6);
+}
+.snav form {
+    display: flex;
+    margin: 0 10px 0px;
+    padding: 5px;
+    border-radius: 100px;
+    border: 1px solid rgba(255, 255, 255, .4);
+}
+.snav form input,
+.snav form button {
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    padding: 5px 10px;
+}
+.snav form input { 
+    width: 130px;
+}
+.snav form button { 
+    width: 50px; 
+}
+.snav form input:focus,
+.snav form button:focus {
+    outline: none;
+}
+.snav>form>button>img {
+    position: relative;
+    top: 0px;
+    width: 25px;
+    height: 25px;
+}
+.snav a ,
+.snav span.title{
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    position: relative;
+    color: #fff;
+    font-family: 微軟正黑體;
+    font-weight: 900;
+}
+.snav span.title { 
+    margin: 20px 0;
+    text-align: center;
+}
+.snav a + a::before {
+    content: "";
+    position: absolute;
+    border-top: 1px solid rgba(255, 255, 255, .4);
+    left: 10px;
+    right: 10px;
+    top: 0;
+}
+.snav img { 
+    width: 25px;
+    height: 25px;
+    position: relative;
+    top: 5px;
+    left: -5px;
+}
+/**/
+
+/*------footer區語法開始------*/
+ul.footerlink {
+    padding: 5px;
+}
+ul.footerlink li {
+    position: relative;
+    white-space: nowrap;
+    border-right: none;
+    display: inline-block;
+    padding: 5px;
+}
+ul.footerlink a {
+    display: inline;
+    position: relative;
+    color: #FFFFFF;
+    text-align: left;
+    font-weight: 800;
+    line-height: 15px;
+    text-decoration-line: none;
+}
+ul.footerlink img {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 8px;
+    left: -5px;
+}
+/*------footer區語法結束------*/

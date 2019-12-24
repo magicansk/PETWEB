@@ -1,0 +1,49 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------m-adm尺寸語法開始------*/
+.m-adm { margin: auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; text-align: center; background-color: none;}
+.m-admbox { flex: none; width: 300px; padding: 5px 0px; margin: 0px 2px; }
+.m-adm a { text-decoration: none; }
+.m-adm .m-admbox label { font-size: 12pt; font-family: 微軟正黑體; font-weight: 900; }
+/*------m-adm尺寸語法結束------*/
+
+/*------addpet語法開始------*/
+.content { background-color: none; justify-content: center; }
+.addpet table { background-color: none; margin: auto;}
+.addpet tr { text-align: center; background-color: none; }
+.addpet input.textbox,
+.addpet textarea { width: 300px; font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 10px; padding: 5px 15px; border:1px gray solid;
+    cursor:pointer; -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+.addpet textarea { height: 200px; }
+.addpet input.textbox:focus,
+.addpet textarea:focus { border: 2px #33CCFF solid;}
+.addpet input.textbox:focus::placeholder,
+.addpet textarea:focus::placeholder { color: #33CCFF; }
+.addpet textarea {resize : none; }
+.addpet input.sex[type="radio"]{ display: none; }
+.addpet span.sex,
+.addpet label { font-family: 微軟正黑體; font-size: 14pt; }
+.addpet span.sex { display: inline-block; width: 300px; color: gray; background-color: #FFFFFF; border: 1px gray solid;
+    cursor: pointer; margin: 10px 10px; padding:3px 15px;  -webkit-border-radius: 15px; border-radius: 15px; }
+.addpet input.sex[type="radio"] + label { display: inline-block; color: gray; background-color: #FFFFFF; border: none;
+    cursor: pointer; margin: 0px 5px; padding:10px 31px;  -webkit-border-radius: 15px; border-radius: 15px; }
+.addpet input.sex[type="radio"]:checked + label { background-color: #33CCFF; border: none; color: #000000;
+    -webkit-border-radius: 15px; border-radius: 15px; }
+.addpet input.submit { color: #FFFFFF; font-family: 微軟正黑體; font-size: 14pt; line-height: 40px; margin: 25px 10px; padding: 0px 15px;
+    -webkit-border-radius: 15px; border-radius: 15px; outline:none; }
+.addpet input.submit { background-color: orange; border:1px orange solid; }
+.addpet label.upload_cover { display: inline-block; position: relative; text-align: center; cursor: pointer; border: 1px solid #595656; margin: 10px; padding:5px 15px; line-height: 40px; border-radius: 15px; }
+label.upload_cover span { border: 1px #595656 solid; }
+.addpet input.filename { width: 100px; border: none; background-color: transparent; font-size: 10pt; text-align: center; }
+.addpet input.cancel { border: none; background-color: transparent; font-size: 14pt; cursor: pointer; outline:none; }
+.addpet input[type="file"] { display: none; }
+.cover { background-color: #33CCFF; font-weight: 900; color: #000;}
+/*------addpet語法結束------*/

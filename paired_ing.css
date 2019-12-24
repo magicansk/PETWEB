@@ -1,0 +1,21 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; background-color: none;}
+.content .slick { flex: none; margin: 0; padding: 30px; background-color: none; border: #bbb 1px solid; border-bottom: none; border-radius: 20px 20px 0 0; }/*輪播用*/
+.content .text { flex: none; padding: 30px; background-color: none; border: #bbb 1px solid; border-top: none; border-radius: 0 0 20px 20px; text-align: center;}
+h2 { margin: 20px 0 5px 0; }
+.text h3 { font-size: 24px; text-align: left;}
+.text p { font-size: 18px; text-align: left;}
+.text a { text-decoration-line: none; }
+.text img { width: 80px; margin: 20px 20px 0 20px; }
+/*------各區域尺寸語法結束------*/
+

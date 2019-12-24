@@ -1,0 +1,23 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; margin: 70px 0; }
+.item { background-color: none; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; text-decoration-line: none; font-size: 30px; font-weight: 900; padding: 0; }
+.item a { text-decoration-line: none; color: darkturquoise; }
+.item .text { background-color: none; text-align: center; margin-top: 20px; }
+.item .img { background-color: darkturquoise; padding: 40px; border-radius: 100px; text-align: center; width: 100%; transition: .3s;}
+.item .img:hover { padding: 35px; }
+.img img { width: 100px; height: 100px; }
+/*------各區域尺寸語法結束------*/
+
+@media only screen and (min-width: 500px) { 
+    .item { padding: 10; }
+}

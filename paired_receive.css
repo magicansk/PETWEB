@@ -1,0 +1,30 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; background-color: none; margin: 10px; padding: 10px; }
+.content .petdata { background-color: none; display: flex; justify-content: center; flex-wrap: wrap; border: #ddd 1px solid; box-shadow: 2px 3px 0px 2px rgba(200, 200, 200, 0.5); margin: 10px; }
+.content .pettitle { width: 100%; background-color: none; text-align: center; padding: 10px; }
+.pettitle b { font-size: 30px; }
+.content .rowpet { width: 100%; background-color: none;  }
+.content .action { width: 100%; background-color: none; }
+.content .petuni { background-color: none; margin: 0px; display: flex; padding: 0 15px; }
+.petuni .pettext { background-color: none; margin-left: 2%; width: 68%;}
+.petuni .petphoto { background-color: none; order: -1; width: 30%;}
+.petphoto img { width: 100%; }
+.content .action { text-align: center; padding: 10px; }
+.action a { text-decoration-line: none; }
+.action img { width: 80px; margin: 20px 20px 0 20px; }
+/*------各區域尺寸語法結束------*/
+
+/*------nodata語法開始------*/
+.nodata { background-color: #ddd; text-align: center; margin: 133px 0; }
+/*------nodata語法結束------*/
+

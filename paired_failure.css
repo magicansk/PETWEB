@@ -1,0 +1,25 @@
+/*
+  ###    ###     #            ###    ###     #             #    #   #   ###    ###     #   
+ #   #  #   #    #           #   #  #   #    #            # #   #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  #   #  #   #  #   #    #   
+ #      #   #    #           #      #   #    #           #   #  # # #  #   #  #   #    #   
+ #  ##  #   #    #           #  ##  #   #    #           #####  # # #  #   #  #   #    #   
+ #   #  #   #                #   #  #   #                #   #  ## ##  #   #  #   #        
+  ###    ###     #            ###    ###     #           #   #  #   #   ###    ###     # 
+*/
+
+/*------各區域尺寸語法開始------*/
+.content { justify-content: center; }
+.petfail { background-color: none; display: flex; flex-wrap: wrap; padding: 10px; margin: 10px; border: #ddd 1px solid; box-shadow: 2px 3px 0px 2px rgba(200, 200, 200, 0.5);}
+.petfail .sorry { width: 100%; text-align: center; }
+.petfail .img { width: 30%; background-color: none; }
+.img img { width: 100%; }
+.petfail .text { width: 68%; background-color: none; margin-left: 10px; display: flex; flex-direction: column; justify-content: space-between; }
+.text .check { text-align: right; }
+.check a{ color: #000; text-decoration-line: none; border: #000 1px solid; padding: 3px; font-size: 20px; }
+.check a:hover { font-weight: 900; }
+/*------各區域尺寸語法結束------*/
+
+/*------nodata語法開始------*/
+.nodata { background-color: #ddd; text-align: center; margin: 161px 0; }
+/*------nodata語法結束------*/
