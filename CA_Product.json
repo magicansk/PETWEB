@@ -1,0 +1,139 @@
+{
+    "CA": [
+        {
+            "ProdID": "CA001",
+            "ProdName": "PANTOP邦比-莊園寵物兔糧(草莓牛奶+綜合野菜)(高鈣營養配方)2.5kg",
+            "Model": "1kg",
+            "PriceOrigin": 99,
+            "ProdDisc": "PANTOP邦比-莊園寵物兔糧(草莓牛奶+綜合野菜)(高鈣營養配方)2.5kg",
+            "Img": "images/product/CA1.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA002",
+            "ProdName": "凡賽爾天然Nature 特級成兔飼料",
+            "Model": "1kg",
+            "PriceOrigin": 99,
+            "ProdDisc": "凡賽爾天然Nature 特級成兔飼料",
+            "Img": "images/product/CA2.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA003",
+            "ProdName": "凡賽爾天然Nature 特級機能高纖成兔飼料",
+            "Model": "2.5kg",
+            "PriceOrigin": 288,
+            "ProdDisc": "凡賽爾天然Nature 特級機能高纖成兔飼料",
+            "Img": "images/product/CA3.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA004",
+            "ProdName": "PeiciPet沛奇 寵物兔專用綜合主食",
+            "Model": "2.5kg",
+            "PriceOrigin": 288,
+            "ProdDisc": "PeiciPet沛奇 寵物兔專用綜合主食",
+            "Img": "images/product/CA4.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA005",
+            "ProdName": "摩米MOMI 營養全IC老兔飼料",
+            "Model": "700g",
+            "PriceOrigin": 245,
+            "ProdDisc": "摩米MOMI 營養全IC老兔飼料",
+            "Img": "images/product/CA5.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA006",
+            "ProdName": "摩米MOMI 營養全T成兔飼料",
+            "Model": "700g",
+            "PriceOrigin": 245,
+            "ProdDisc": "摩米MOMI 營養全T成兔飼料",
+            "Img": "images/product/CA6.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA007",
+            "ProdName": "摩米MOMI 營養全A幼兔飼料",
+            "Model": "1kg",
+            "PriceOrigin": 405,
+            "ProdDisc": "摩米MOMI 營養全A幼兔飼料",
+            "Img": "images/product/CA7.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA008",
+            "ProdName": "PANTOP邦比 寵物幼兔綜合主食",
+            "Model": "3kg",
+            "PriceOrigin": 279,
+            "ProdDisc": "PANTOP邦比 寵物幼兔綜合主食",
+            "Img": "images/product/CA8.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA009",
+            "ProdName": "CUNIPIC頂級無穀成兔飼料500g",
+            "Model": "3kg",
+            "PriceOrigin": 269,
+            "ProdDisc": "CUNIPIC頂級無穀成兔飼料500g",
+            "Img": "images/product/CA9.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA010",
+            "ProdName": "CUNIPIC頂級無穀幼兔飼料2kg",
+            "Model": "425g",
+            "PriceOrigin": 95,
+            "ProdDisc": "CUNIPIC頂級無穀幼兔飼料2kg",
+            "Img": "images/product/CA10.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA011",
+            "ProdName": "OXBOW活力成兔堤摩飼料5磅",
+            "Model": "425g",
+            "PriceOrigin": 95,
+            "ProdDisc": "OXBOW活力成兔堤摩飼料5磅",
+            "Img": "images/product/CA11.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA012",
+            "ProdName": "OXBOW幼兔飼料(5磅)",
+            "Model": "1kg",
+            "PriceOrigin": 325,
+            "ProdDisc": "OXBOW幼兔飼料(5磅)",
+            "Img": "images/product/CA12.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA013",
+            "ProdName": "ShuPet舒沛 特級兔均衡配方飼料",
+            "Model": "1kg",
+            "PriceOrigin": 325,
+            "ProdDisc": "ShuPet舒沛 特級兔均衡配方飼料",
+            "Img": "images/product/CA13.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA014",
+            "ProdName": "PANTOP邦比 寵物成兔綜合主食",
+            "Model": "1kg",
+            "PriceOrigin": 325,
+            "ProdDisc": "PANTOP邦比 寵物成兔綜合主食",
+            "Img": "images/product/CA14.jpg",
+            "CategoryID": "CA"
+        },
+        {
+            "ProdID": "CA015",
+            "ProdName": "摩米MOMI 營養全A幼兔飼料",
+            "Model": "5kg",
+            "PriceOrigin": 1350,
+            "ProdDisc": "摩米MOMI 營養全A幼兔飼料",
+            "Img": "images/product/CA15.jpg",
+            "CategoryID": "CA"
+        }
+    ]
+}

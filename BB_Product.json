@@ -1,0 +1,184 @@
+{
+    "BB": [
+        {
+            "ProdID": "BB001",
+            "ProdName": "貓用98%鮮肉無膠主食罐 低敏鴨肉",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 低敏鴨肉",
+            "Img": "images/product/BB1.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB002",
+            "ProdName": "貓用98%鮮肉無膠主食罐 田園火雞",
+            "Model": "165g",
+            "PriceOrigin": 72,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 田園火雞",
+            "Img": "images/product/BB2.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB003",
+            "ProdName": "貓用98%鮮肉無膠主食罐 鰹魚＋雞肉",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 鰹魚＋雞肉",
+            "Img": "images/product/BB3.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB004",
+            "ProdName": "貓用98%鮮肉無膠主食罐 山野鵪鶉鳥",
+            "Model": "165g",
+            "PriceOrigin": 72,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 山野鵪鶉鳥",
+            "Img": "images/product/BB4.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB005",
+            "ProdName": "貓用98%鮮肉無膠主食罐 放牧鹿",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 放牧鹿",
+            "Img": "images/product/BB5.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB006",
+            "ProdName": "貓用98%鮮肉無膠主食罐 草飼牛肉",
+            "Model": "165g",
+            "PriceOrigin": 72,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 草飼牛肉",
+            "Img": "images/product/BB6.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB007",
+            "ProdName": "希爾思k/d腎臟護理貓處方罐156g",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "希爾思k/d腎臟護理貓處方罐156g",
+            "Img": "images/product/BB7.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB008",
+            "ProdName": "希爾思k/d腎臟護理(鮪魚燉蔬菜)貓處方罐82g",
+            "Model": "165g",
+            "PriceOrigin": 72,
+            "ProdDisc": "希爾思k/d腎臟護理(鮪魚燉蔬菜)貓處方罐82g",
+            "Img": "images/product/BB8.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB009",
+            "ProdName": "希爾思i/d消化系統護理貓處方罐156g",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "希爾思i/d消化系統護理貓處方罐156g",
+            "Img": "images/product/BB9.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB010",
+            "ProdName": "希爾思i/d消化系統護理(雞肉燉蔬菜)貓處方罐82g",
+            "Model": "165g",
+            "PriceOrigin": 72,
+            "ProdDisc": "希爾思i/d消化系統護理(雞肉燉蔬菜)貓處方罐82g",
+            "Img": "images/product/BB10.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB011",
+            "ProdName": "貓用98%鮮肉無膠主食罐 低敏鴨肉",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 低敏鴨肉",
+            "Img": "images/product/BB11.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB012",
+            "ProdName": "貓用98%鮮肉無膠主食罐 放牧鹿",
+            "Model": "165g",
+            "PriceOrigin": 72,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 放牧鹿",
+            "Img": "images/product/BB12.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB013",
+            "ProdName": "貓用98%鮮肉無膠主食罐 鰹魚＋雞肉",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 鰹魚＋雞肉",
+            "Img": "images/product/BB13.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB014",
+            "ProdName": "貓用98%鮮肉無膠主食罐 草飼牛肉",
+            "Model": "165g",
+            "PriceOrigin": 72,
+            "ProdDisc": "貓用98%鮮肉無膠主食罐 草飼牛肉",
+            "Img": "images/product/BB14.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB015",
+            "ProdName": "挑嘴貓無膠主食罐 鮭魚鰹魚餐",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "挑嘴貓無膠主食罐 鮭魚鰹魚餐",
+            "Img": "images/product/BB15.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB016",
+            "ProdName": "挑嘴貓無膠主食罐 鮭魚鰹魚餐",
+            "Model": "165g",
+            "PriceOrigin": 69,
+            "ProdDisc": "挑嘴貓無膠主食罐 鮭魚鰹魚餐",
+            "Img": "images/product/BB16.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB017",
+            "ProdName": "挑嘴貓無膠主食罐 鯖魚雞肉餐",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "挑嘴貓無膠主食罐 鯖魚雞肉餐",
+            "Img": "images/product/BB17.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB018",
+            "ProdName": "挑嘴貓無膠主食罐 鯖魚雞肉餐",
+            "Model": "165g",
+            "PriceOrigin": 69,
+            "ProdDisc": "挑嘴貓無膠主食罐 鯖魚雞肉餐",
+            "Img": "images/product/BB18.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB019",
+            "ProdName": "挑嘴貓無膠主食罐 秋刀魚雞肉餐",
+            "Model": "80g",
+            "PriceOrigin": 46,
+            "ProdDisc": "挑嘴貓無膠主食罐 秋刀魚雞肉餐",
+            "Img": "images/product/BB19.jpg",
+            "CategoryID": "BB"
+        },
+        {
+            "ProdID": "BB020",
+            "ProdName": "挑嘴貓無膠主食罐 秋刀魚雞肉餐",
+            "Model": "165g",
+            "PriceOrigin": 69,
+            "ProdDisc": "挑嘴貓無膠主食罐 秋刀魚雞肉餐",
+            "Img": "images/product/BB20.jpg",
+            "CategoryID": "BB"
+        }
+    ]
+}

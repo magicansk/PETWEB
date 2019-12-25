@@ -1,0 +1,148 @@
+{
+    "CB": [
+        {
+            "ProdID": "CB001",
+            "ProdName": "PANTOP邦比 寵物鼠綜合主食",
+            "Model": "700g",
+            "PriceOrigin": 290,
+            "ProdDisc": "PANTOP邦比 寵物鼠綜合主食",
+            "Img": "images/product/CB1.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB002",
+            "ProdName": "摩米MOMI 營養全CG天竺鼠飼料",
+            "Model": "400g",
+            "PriceOrigin": 200,
+            "ProdDisc": "摩米MOMI 營養全CG天竺鼠飼料",
+            "Img": "images/product/CB2.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB003",
+            "ProdName": "比利時PS 沙鼠飼料",
+            "Model": "1kg",
+            "PriceOrigin": 405,
+            "ProdDisc": "比利時PS 沙鼠飼料",
+            "Img": "images/product/CB3.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB004",
+            "ProdName": "比利時PS 大寵鼠飼料",
+            "Model": "700g",
+            "PriceOrigin": 245,
+            "ProdDisc": "比利時PS 大寵鼠飼料",
+            "Img": "images/product/CB4.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB005",
+            "ProdName": "比利時PS寵物倉鼠飼料",
+            "Model": "1kg",
+            "PriceOrigin": 405,
+            "ProdDisc": "比利時PS寵物倉鼠飼料",
+            "Img": "images/product/CB5.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB006",
+            "ProdName": "比利時PS 迷你倉鼠飼料",
+            "Model": "1kg",
+            "PriceOrigin": 405,
+            "ProdDisc": "比利時PS 迷你倉鼠飼料",
+            "Img": "images/product/CB6.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB007",
+            "ProdName": "比利時PS 小寵鼠飼料",
+            "Model": "1000g",
+            "PriceOrigin": 88,
+            "ProdDisc": "比利時PS 小寵鼠飼料",
+            "Img": "images/product/CB7.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB008",
+            "ProdName": "比利時PS 楓葉鼠全方位主食(蔬果配方)",
+            "Model": "1kg",
+            "PriceOrigin": 325,
+            "ProdDisc": "比利時PS 楓葉鼠全方位主食(蔬果配方)",
+            "Img": "images/product/CB8.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB009",
+            "ProdName": "ML-08元氣滿分堅果與穀物綜合飼料180g",
+            "Model": "5kg",
+            "PriceOrigin": 1350,
+            "ProdDisc": "ML-08元氣滿分堅果與穀物綜合飼料180g",
+            "Img": "images/product/CB9.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB010",
+            "ProdName": "德國Little One倉鼠飼料900g",
+            "Model": "700g",
+            "PriceOrigin": 245,
+            "ProdDisc": "德國Little One倉鼠飼料900g",
+            "Img": "images/product/CB10.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB011",
+            "ProdName": "3pigs鼠寶營養滿分健康餐(藍)(350g)",
+            "Model": "700g",
+            "PriceOrigin": 245,
+            "ProdDisc": "3pigs鼠寶營養滿分健康餐(藍)(350g)",
+            "Img": "images/product/CB11.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB012",
+            "ProdName": "CUNIPIC頂級倉鼠飼料500g",
+            "Model": "700g",
+            "PriceOrigin": 245,
+            "ProdDisc": "CUNIPIC頂級倉鼠飼料500g",
+            "Img": "images/product/CB12.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB013",
+            "ProdName": "凡賽爾天然Nature 特級機能高纖天竺鼠飼料",
+            "Model": "400g",
+            "PriceOrigin": 160,
+            "ProdDisc": "凡賽爾天然Nature 特級機能高纖天竺鼠飼料",
+            "Img": "images/product/CB13.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB014",
+            "ProdName": "凡賽爾天然Nature 特級倉鼠飼料",
+            "Model": "400g",
+            "PriceOrigin": 160,
+            "ProdDisc": "凡賽爾天然Nature 特級倉鼠飼料",
+            "Img": "images/product/CB14.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB015",
+            "ProdName": "凡賽爾天然Nature 特級迷你倉鼠飼料",
+            "Model": "500g",
+            "PriceOrigin": 225,
+            "ProdDisc": "凡賽爾天然Nature 特級迷你倉鼠飼料",
+            "Img": "images/product/CB15.jpg",
+            "CategoryID": "CB"
+        },
+        {
+            "ProdID": "CB016",
+            "ProdName": "比利時PS 寵鼠全方位主食",
+            "Model": "500g",
+            "PriceOrigin": 225,
+            "ProdDisc": "比利時PS 寵鼠全方位主食",
+            "Img": "images/product/CB16.jpg",
+            "CategoryID": "CB"
+        }
+    ]
+}

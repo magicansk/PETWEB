@@ -1,0 +1,148 @@
+{
+    "AA": [
+      {
+        "ProdID": "AA001",
+        "ProdName": "紐頓 Nutram 無穀全能迷你犬 T29 羊肉",
+        "Model": "1.36kg",
+        "PriceOrigin": 499,
+        "ProdDisc": "紐頓 Nutram 無穀全能迷你犬 T29 羊肉",
+        "Img": "images/product/AA1.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA002",
+        "ProdName": "紐頓 Nutram 無穀全能迷你犬 T28 鮭魚",
+        "Model": "1.36kg",
+        "PriceOrigin": 499,
+        "ProdDisc": "紐頓 Nutram 無穀全能迷你犬 T28 鮭魚",
+        "Img": "images/product/AA2.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA003",
+        "ProdName": "紐頓 Nutram 無穀全能迷你犬 T27 火雞",
+        "Model": "1.36kg",
+        "PriceOrigin": 499,
+        "ProdDisc": "紐頓 Nutram 無穀全能迷你犬 T27 火雞",
+        "Img": "images/product/AA3.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA004",
+        "ProdName": "紐頓 Nutram 無穀全能潔牙犬 T26 羊肉",
+        "Model": "1.36kg",
+        "PriceOrigin": 499,
+        "ProdDisc": "紐頓 Nutram 無穀全能潔牙犬 T26 羊肉",
+        "Img": "images/product/AA4.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA005",
+        "ProdName": "紐頓 Nutram 無穀全能潔牙犬 T25 鮭魚",
+        "Model": "2.72kg",
+        "PriceOrigin": 910,
+        "ProdDisc": "紐頓 Nutram 無穀全能潔牙犬 T25 鮭魚",
+        "Img": "images/product/AA5.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA006",
+        "ProdName": "紐頓 Nutram 無穀全能潔牙犬 T23 火雞",
+        "Model": "2.72kg",
+        "PriceOrigin": 910,
+        "ProdDisc": "紐頓 Nutram 無穀全能潔牙犬 T23 火雞",
+        "Img": "images/product/AA6.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA007",
+        "ProdName": "紐頓 Nutram 專業理想犬 I18 體重控制",
+        "Model": "2.72kg",
+        "PriceOrigin": 770,
+        "ProdDisc": "紐頓 Nutram 專業理想犬 I18 體重控制",
+        "Img": "images/product/AA7.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA008",
+        "ProdName": "紐頓 Nutram 專業理想犬 I20 三效強化",
+        "Model": "2.72kg",
+        "PriceOrigin": 770,
+        "ProdDisc": "紐頓 Nutram 專業理想犬 I20 三效強化",
+        "Img": "images/product/AA8.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA009",
+        "ProdName": "紐頓 Nutram 均衡健康大型幼犬 S3 雞肉燕麥",
+        "Model": "1.36kg",
+        "PriceOrigin": 2310,
+        "ProdDisc": "紐頓 Nutram 均衡健康大型幼犬 S3 雞肉燕麥",
+        "Img": "images/product/AA9.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA010",
+        "ProdName": "紐頓 Nutram 均衡健康成犬 S6 雞肉南瓜",
+        "Model": "2.72kg",
+        "PriceOrigin": 740,
+        "ProdDisc": "紐頓 Nutram 均衡健康成犬 S6 雞肉南瓜",
+        "Img": "images/product/AA10.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA011",
+        "ProdName": "發育寶-UCA27玩賞犬專用(鮭魚+馬鈴薯+紫蘇籽)成犬糧",
+        "Model": "2.2kg",
+        "PriceOrigin": 850,
+        "ProdDisc": "發育寶-UCA27玩賞犬專用(鮭魚+馬鈴薯+紫蘇籽)成犬糧",
+        "Img": "images/product/AA11.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA012",
+        "ProdName": "發育寶-UNA27家庭犬專用(鮭魚+馬鈴薯+綠茶)成犬糧",
+        "Model": "2.2kg",
+        "PriceOrigin": 850,
+        "ProdDisc": "發育寶-UNA27家庭犬專用(鮭魚+馬鈴薯+綠茶)成犬糧",
+        "Img": "images/product/AA12.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA013",
+        "ProdName": "柏萊富 極鮮無穀全齡犬 火雞肉扁豆",
+        "Model": "2.2kg",
+        "PriceOrigin": 850,
+        "ProdDisc": "柏萊富 極鮮無穀全齡犬 火雞肉扁豆",
+        "Img": "images/product/AA13.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA014",
+        "ProdName": "柏萊富 特調幼犬 成長配方(雞肉+糙米)",
+        "Model": "2.2kg",
+        "PriceOrigin": 630,
+        "ProdDisc": "柏萊富 特調幼犬 成長配方(雞肉+糙米)",
+        "Img": "images/product/AA14.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA015",
+        "ProdName": "柏萊富 特調成犬 活力配方(雞肉+糙米)",
+        "Model": "2.2kg",
+        "PriceOrigin": 630,
+        "ProdDisc": "柏萊富 特調成犬 活力配方(雞肉+糙米)",
+        "Img": "images/product/AA15.jpg",
+        "CategoryID": "AA"
+      },
+      {
+        "ProdID": "AA016",
+        "ProdName": "柏萊富 特調低卡 保健配方(雞肉+糙米)",
+        "Model": "2.2kg",
+        "PriceOrigin": 630,
+        "ProdDisc": "柏萊富 特調低卡 保健配方(雞肉+糙米)",
+        "Img": "images/product/AA16.jpg",
+        "CategoryID": "AA"
+      }
+    ]
+}

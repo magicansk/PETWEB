@@ -1,0 +1,112 @@
+{
+    "AF": [
+        {
+            "ProdID": "AF001",
+            "ProdName": "薄款夏裝裙子博美貓咪小型犬公主裙夏季透氣",
+            "Model": "S.M.L.XL.XXL",
+            "PriceOrigin": 473,
+            "ProdDisc": "薄款夏裝裙子博美貓咪小型犬公主裙夏季透氣",
+            "Img": "images/product/AF01.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF002",
+            "ProdName": "春秋薄款小型犬貓狗連帽衛衣泰迪寵物貓咪服飾",
+            "Model": "S.M.L.XL.XXL",
+            "PriceOrigin": 611,
+            "ProdDisc": "春秋薄款小型犬貓狗連帽衛衣泰迪寵物貓咪服飾",
+            "Img": "images/product/AF02.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF003",
+            "ProdName": "秋冬恐龍變身裝",
+            "Model": "S.M.L.XL.XXL",
+            "PriceOrigin": 317,
+            "ProdDisc": "秋冬恐龍變身裝",
+            "Img": "images/product/AF03.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF004",
+            "ProdName": "狗狗衣服秋冬裝衛衣",
+            "Model": "S.M.L.XS.XXS",
+            "PriceOrigin": 339,
+            "ProdDisc": "狗狗衣服秋冬裝衛衣",
+            "Img": "images/product/AF04.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF005",
+            "ProdName": "寵物背心春夏季薄款樹葉圖案",
+            "Model": "S.M.L.XL.XXL",
+            "PriceOrigin": 487,
+            "ProdDisc": "寵物背心春夏季薄款樹葉圖案",
+            "Img": "images/product/AF05.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF006",
+            "ProdName": "狗狗衣服-寵物服飾泰迪小型犬",
+            "Model": "S.M.L.XS.XXS",
+            "PriceOrigin": 254,
+            "ProdDisc": "狗狗衣服-寵物服飾泰迪小型犬",
+            "Img": "images/product/AF06.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF007",
+            "ProdName": "加厚保暖狗狗衣服泰迪衣服秋冬裝四腳衣",
+            "Model": "S.M.L.XS.XXS",
+            "PriceOrigin": 455,
+            "ProdDisc": "加厚保暖狗狗衣服泰迪衣服秋冬裝四腳衣",
+            "Img": "images/product/AF07.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF008",
+            "ProdName": "寵物衣服泰迪博美約克夏狗狗服飾新年斗篷",
+            "Model": "S.M.L.XS.XXS",
+            "PriceOrigin": 517,
+            "ProdDisc": "寵物衣服泰迪博美約克夏狗狗服飾新年斗篷",
+            "Img": "images/product/AF08.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF009",
+            "ProdName": "泰迪新年裝小型犬服飾秋冬裝寵物過年加厚唐裝",
+            "Model": "S.M.L.XL.XXL",
+            "PriceOrigin": 400,
+            "ProdDisc": "泰迪新年裝小型犬服飾秋冬裝寵物過年加厚唐裝",
+            "Img": "images/product/AF09.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF010",
+            "ProdName": "寵物牛仔騎馬變身裝寵物服飾cospaly狗狗衣服",
+            "Model": "S.M.L.XL",
+            "PriceOrigin": 231,
+            "ProdDisc": "寵物牛仔騎馬變身裝寵物服飾cospaly狗狗衣服",
+            "Img": "images/product/AF10.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF011",
+            "ProdName": "冬季加厚大型犬四腳衣遛狗秋冬裝",
+            "Model": "S.M.L.XL.XS",
+            "PriceOrigin": 448,
+            "ProdDisc": "冬季加厚大型犬四腳衣遛狗秋冬裝",
+            "Img": "images/product/AF11.jpg",
+            "CategoryID": "AF"
+        },
+        {
+            "ProdID": "AF012",
+            "ProdName": "candy牌大型犬純棉運動帽",
+            "Model": "S.M.L.XL.XS",
+            "PriceOrigin": 448,
+            "ProdDisc": "candy牌大型犬純棉運動帽",
+            "Img": "images/product/AF12.jpg",
+            "CategoryID": "AF"
+        }
+    ]
+}

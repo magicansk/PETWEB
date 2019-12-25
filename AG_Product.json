@@ -1,0 +1,112 @@
+{
+    "AG": [    
+    {
+        "ProdID": "AG001",
+        "ProdName": "日本Richell-外出運輸提籠(S)-粉紅",
+        "Model": "",
+        "PriceOrigin": 2299,
+        "ProdDisc": "日本Richell-外出運輸提籠(S)-粉紅",
+        "Img": "images/product/AG01.jpg",
+        "CategoryID": "AG"
+    },
+    {
+        "ProdID": "AG002",
+        "ProdName": "日本Richell-外出運輸提籠(M)-棕色",
+        "Model": "S.M.L.XL.XXL",
+        "PriceOrigin": 611,
+        "ProdDisc": "日本Richell-外出運輸提籠(M)-棕色",
+        "Img": "images/product/AG02.jpg",
+        "CategoryID": "AF"
+    },
+    {
+        "ProdID": "AG003",
+        "ProdName": "日本Richell-外出上掀運輸提籠(S)-粉紅",
+        "Model": "",
+        "PriceOrigin": 2299,
+        "ProdDisc": "日本Richell-外出上掀運輸提籠(S)-粉紅",
+        "Img": "images/product/AG03.jpg",
+        "CategoryID": "AG"
+    },
+    {
+        "ProdID": "AG004",
+        "ProdName": "日本Richell-外出上掀運輸提籠(S)-棕色",
+        "Model": "S.M.L.XL.XXL",
+        "PriceOrigin": 611,
+        "ProdDisc": "日本Richell-外出上掀運輸提籠(S)-棕色",
+        "Img": "images/product/AG04.jpg",
+        "CategoryID": "AF"
+    },
+    {
+        "ProdID": "AG005",
+        "ProdName": "日本Marukan-寵物專用運輸籠M-藍色",
+        "Model": "",
+        "PriceOrigin": 2299,
+        "ProdDisc": "日本Marukan-寵物專用運輸籠M-藍色",
+        "Img": "images/product/AG05.jpg",
+        "CategoryID": "AG"
+    },
+    {
+        "ProdID": "AG006",
+        "ProdName": "日本Marukan-寵物專用運輸籠M-紅色",
+        "Model": "S.M.L.XL.XXL",
+        "PriceOrigin": 611,
+        "ProdDisc": "日本Marukan-寵物專用運輸籠M-紅色",
+        "Img": "images/product/AG06.jpg",
+        "CategoryID": "AF"
+    },
+    {
+        "ProdID": "AG007",
+        "ProdName": "日本Richell-PICO休閒提籃(無軟墊)-紫色",
+        "Model": "",
+        "PriceOrigin": 2299,
+        "ProdDisc": "日本Richell-PICO休閒提籃(無軟墊)-紫色",
+        "Img": "images/product/AG07.jpg",
+        "CategoryID": "AG"
+    },
+    {
+        "ProdID": "AG008",
+        "ProdName": "日本Richell-PICO休閒提籃(無軟墊)-黃色",
+        "Model": "S.M.L.XL.XXL",
+        "PriceOrigin": 611,
+        "ProdDisc": "日本Richell-PICO休閒提籃(無軟墊)-黃色",
+        "Img": "images/product/AG08.jpg",
+        "CategoryID": "AF"
+    },
+    {
+        "ProdID": "AG009",
+        "ProdName": "日本Richell-PICO休閒提籃(無軟墊)-粉紅",
+        "Model": "",
+        "PriceOrigin": 2299,
+        "ProdDisc": "日本Richell-PICO休閒提籃(無軟墊)-粉紅",
+        "Img": "images/product/AG09.jpg",
+        "CategoryID": "AG"
+    },
+    {
+        "ProdID": "AG010",
+        "ProdName": "日本Richell-PICO休閒提籃(無軟墊)-棕色",
+        "Model": "S.M.L.XL.XXL",
+        "PriceOrigin": 611,
+        "ProdDisc": "日本Richell-PICO休閒提籃(無軟墊)-棕色",
+        "Img": "images/product/AG10.jpg",
+        "CategoryID": "AF"
+    },
+    {
+        "ProdID": "AG011",
+        "ProdName": "日本Richell-卡羅雙門提籃-黃色",
+        "Model": "",
+        "PriceOrigin": 2299,
+        "ProdDisc": "日本Richell-卡羅雙門提籃-黃色",
+        "Img": "images/product/AG11.jpg",
+        "CategoryID": "AG"
+    },
+    {
+        "ProdID": "AG012",
+        "ProdName": "日本Richell-卡羅雙門提籃-咖啡色",
+        "Model": "S.M.L.XL.XXL",
+        "PriceOrigin": 611,
+        "ProdDisc": "日本Richell-卡羅雙門提籃-咖啡色",
+        "Img": "images/product/AG12.jpg",
+        "CategoryID": "AF"
+    }
+]
+}

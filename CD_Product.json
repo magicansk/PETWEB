@@ -1,0 +1,139 @@
+{
+    "CD": [
+        {
+            "ProdID": "CD001",
+            "ProdName": "德國little one好吃隧道玩具(小)寵物鼠用",
+            "Model": "",
+            "PriceOrigin": 180,
+            "ProdDisc": "德國little one好吃隧道玩具(小)寵物鼠用",
+            "Img": "images/product/CD1.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD002",
+            "ProdName": "德國little one好吃隧道玩具(大)",
+            "Model": "",
+            "PriceOrigin": 345,
+            "ProdDisc": "德國little one好吃隧道玩具(大)",
+            "Img": "images/product/CD2.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD003",
+            "ProdName": "德國little one小花碗磨牙零食玩具",
+            "Model": "",
+            "PriceOrigin": 135,
+            "ProdDisc": "德國little one小花碗磨牙零食玩具",
+            "Img": "images/product/CD3.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD004",
+            "ProdName": "德國little one風鈴磨牙零食玩具",
+            "Model": "",
+            "PriceOrigin": 135,
+            "ProdDisc": "德國little one風鈴磨牙零食玩具",
+            "Img": "images/product/CD4.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD005",
+            "ProdName": "KAYTEE提摩西躲藏隧道窩",
+            "Model": "",
+            "PriceOrigin": 135,
+            "ProdDisc": "KAYTEE提摩西躲藏隧道窩",
+            "Img": "images/product/CD5.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD006",
+            "ProdName": "ML-99 MK雙抽屜式精緻兔籠 咖啡色",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "ML-99 MK雙抽屜式精緻兔籠 咖啡色",
+            "Img": "images/product/CD6.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD007",
+            "ProdName": "OXBOW提摩西草編牧草隧道",
+            "Model": "",
+            "PriceOrigin": 360,
+            "ProdDisc": "OXBOW提摩西草編牧草隧道",
+            "Img": "images/product/CD7.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD008",
+            "ProdName": "OXBOW 提摩西草窩(L)",
+            "Model": "",
+            "PriceOrigin": 600,
+            "ProdDisc": "OXBOW 提摩西草窩(L)",
+            "Img": "images/product/CD8.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD009",
+            "ProdName": "MOMI 牧草窩",
+            "Model": "",
+            "PriceOrigin": 600,
+            "ProdDisc": "MOMI 牧草窩",
+            "Img": "images/product/CD9.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD010",
+            "ProdName": "Marukan 提摩西草編牧草窩(S)",
+            "Model": "",
+            "PriceOrigin": 650,
+            "ProdDisc": "Marukan 提摩西草編牧草窩(S)",
+            "Img": "images/product/CD10.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD011",
+            "ProdName": "Alice Rabbito兔兔簡易部屋-藍",
+            "Model": "",
+            "PriceOrigin": 265,
+            "ProdDisc": "Alice Rabbito兔兔簡易部屋-藍",
+            "Img": "images/product/CD11.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD012",
+            "ProdName": "日本Marukan 挑高抽屜式兔籠 (鐵灰色)",
+            "Model": "",
+            "PriceOrigin": 630,
+            "ProdDisc": "日本Marukan 挑高抽屜式兔籠 (鐵灰色)",
+            "Img": "images/product/CD12.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD013",
+            "ProdName": "禾棋上掀式提籠",
+            "Model": "",
+            "PriceOrigin": 420,
+            "ProdDisc": "禾棋上掀式提籠",
+            "Img": "images/product/CD13.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD014",
+            "ProdName": "禾棋輕便運輸提籠",
+            "Model": "",
+            "PriceOrigin": 370,
+            "ProdDisc": "禾棋輕便運輸提籠",
+            "Img": "images/product/CD14.jpg",
+            "CategoryID": "CD"
+        },
+        {
+            "ProdID": "CD015",
+            "ProdName": "天窗型運輸籠",
+            "Model": "",
+            "PriceOrigin": 630,
+            "ProdDisc": "天窗型運輸籠",
+            "Img": "images/product/CD15.jpg",
+            "CategoryID": "CD"
+        }
+    ]
+}

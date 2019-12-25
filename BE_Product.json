@@ -1,0 +1,157 @@
+{
+    "BE": [
+        {
+            "ProdID": "BE001",
+            "ProdName": "NatureKE紐崔克貓零食-雞肉細切/No.28",
+            "Model": "25g",
+            "PriceOrigin": 59,
+            "ProdDisc": "NatureKE紐崔克貓零食-雞肉細切/No.28",
+            "Img": "images/product/BE1.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE002",
+            "ProdName": "NatureKE紐崔克貓零食-雞肉海帶/No.3",
+            "Model": "25g",
+            "PriceOrigin": 59,
+            "ProdDisc": "NatureKE紐崔克貓零食-雞肉海帶/No.3",
+            "Img": "images/product/BE2.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE003",
+            "ProdName": "NatureKE紐崔克貓零食-雞肉海苔/No.4",
+            "Model": "25g",
+            "PriceOrigin": 59,
+            "ProdDisc": "NatureKE紐崔克貓零食-雞肉海苔/No.4",
+            "Img": "images/product/BE3.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE004",
+            "ProdName": "NatureKE紐崔克貓零食-鱈魚絲/No.22",
+            "Model": "25g",
+            "PriceOrigin": 59,
+            "ProdDisc": "NatureKE紐崔克貓零食-鱈魚絲/No.22",
+            "Img": "images/product/BE4.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE005",
+            "ProdName": "Felix日本菲力貓貓脆餅-奶香派對(牛奶巧達起司風味)",
+            "Model": "60g",
+            "PriceOrigin": 59,
+            "ProdDisc": "Felix日本菲力貓貓脆餅-奶香派對(牛奶巧達起司風味)",
+            "Img": "images/product/BE5.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE006",
+            "ProdName": "Felix日本菲力貓 貓脆餅-海鮮拼盤風味(鮪魚,鮭魚,鯛魚)",
+            "Model": "60g",
+            "PriceOrigin": 59,
+            "ProdDisc": "Felix日本菲力貓 貓脆餅-海鮮拼盤風味(鮪魚,鮭魚,鯛魚)",
+            "Img": "images/product/BE6.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE007",
+            "ProdName": "Felix日本菲力貓 貓脆餅-炙燒烤肉風味(雞肉,牛肉,鮭魚)",
+            "Model": "60g",
+            "PriceOrigin": 59,
+            "ProdDisc": "Felix日本菲力貓 貓脆餅-炙燒烤肉風味(雞肉,牛肉,鮭魚)",
+            "Img": "images/product/BE7.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE008",
+            "ProdName": "Felix日本菲力貓 貓脆餅-海陸三重奏風味(鮪魚,雞肉,鰹魚)",
+            "Model": "60g",
+            "PriceOrigin": 59,
+            "ProdDisc": "Felix日本菲力貓 貓脆餅-海陸三重奏風味(鮪魚,雞肉,鰹魚)",
+            "Img": "images/product/BE8.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE009",
+            "ProdName": "CARL卡爾-天然薄荷貓草(A級細葉)",
+            "Model": "10g",
+            "PriceOrigin": 108,
+            "ProdDisc": "CARL卡爾-天然薄荷貓草(A級細葉)",
+            "Img": "images/product/BE9.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE010",
+            "ProdName": "日本CIAO/CI-4SC-76啾嚕肉泥(雞肉+日本蟹)",
+            "Model": "14gx4入",
+            "PriceOrigin": 59,
+            "ProdDisc": "日本CIAO/CI-4SC-76啾嚕肉泥(雞肉+日本蟹)",
+            "Img": "images/product/BE10.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE011",
+            "ProdName": "日本CIAO/CI-SC-142啾嚕肉泥(雞肉+甜蝦)",
+            "Model": "14gx4入",
+            "PriceOrigin": 59,
+            "ProdDisc": "日本CIAO/CI-SC-142啾嚕肉泥(雞肉+甜蝦)",
+            "Img": "images/product/BE11.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE012",
+            "ProdName": "日本CIAO/CI-4SC-83寒天肉泥(雞肉)",
+            "Model": "15gx4入",
+            "PriceOrigin": 59,
+            "ProdDisc": "日本CIAO/CI-4SC-83寒天肉泥(雞肉)",
+            "Img": "images/product/BE12.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE013",
+            "ProdName": "日本CIAO/CI-SC-104啾嚕化毛配方肉泥(雞肉)",
+            "Model": "14gx4入",
+            "PriceOrigin": 59,
+            "ProdDisc": "日本CIAO/CI-SC-104啾嚕化毛配方肉泥(雞肉)",
+            "Img": "images/product/BE13.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE014",
+            "ProdName": "韓國Apple Cat-貓咪化毛點心棒(鮭魚+雞肉)",
+            "Model": "20g",
+            "PriceOrigin": 45,
+            "ProdDisc": "韓國Apple Cat-貓咪化毛點心棒(鮭魚+雞肉)",
+            "Img": "images/product/BE14.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE015",
+            "ProdName": "韓國Apple Cat-貓咪化毛點心棒(鮪魚+雞肉)",
+            "Model": "20g",
+            "PriceOrigin": 45,
+            "ProdDisc": "韓國Apple Cat-貓咪化毛點心棒(鮪魚+雞肉)",
+            "Img": "images/product/BE15.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE016",
+            "ProdName": "韓國Apple Cat-貓咪化毛點心棒(羊肉+雞肉)",
+            "Model": "20g",
+            "PriceOrigin": 45,
+            "ProdDisc": "韓國Apple Cat-貓咪化毛點心棒(羊肉+雞肉)",
+            "Img": "images/product/BE16.jpg",
+            "CategoryID": "BE"
+        },
+        {
+            "ProdID": "BE017",
+            "ProdName": "韓國Apple Cat-貓咪化毛點心棒(牛肉+雞肉)",
+            "Model": "20g",
+            "PriceOrigin": 45,
+            "ProdDisc": "韓國Apple Cat-貓咪化毛點心棒(牛肉+雞肉)",
+            "Img": "images/product/BE17.jpg",
+            "CategoryID": "BE"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "CC": [
+        {
+            "ProdID": "CC001",
+            "ProdName": "凡賽爾天然Nature 特級點心寶(活力加倍)",
+            "Model": "85g",
+            "PriceOrigin": 130,
+            "ProdDisc": "凡賽爾天然Nature 特級點心寶(活力加倍)",
+            "Img": "images/product/CC1.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC002",
+            "ProdName": "凡賽爾天然Nature 特級點心寶(蔬菜)",
+            "Model": "85g",
+            "PriceOrigin": 130,
+            "ProdDisc": "凡賽爾天然Nature 特級點心寶(蔬菜)",
+            "Img": "images/product/CC2.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC003",
+            "ProdName": "摩米MOMI 美國特級小動物苜蓿草",
+            "Model": "500g",
+            "PriceOrigin": 200,
+            "ProdDisc": "摩米MOMI 美國特級小動物苜蓿草",
+            "Img": "images/product/CC3.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC004",
+            "ProdName": "摩米MOMI 美國特級第二割提摩西草",
+            "Model": "500g",
+            "PriceOrigin": 200,
+            "ProdDisc": "摩米MOMI 美國特級第二割提摩西草",
+            "Img": "images/product/CC4.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC005",
+            "ProdName": "波蘭LoLo 鼠兔棒棒糖(蜂蜜)",
+            "Model": "85g",
+            "PriceOrigin": 130,
+            "ProdDisc": "波蘭LoLo 鼠兔棒棒糖(蜂蜜)",
+            "Img": "images/product/CC5.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC006",
+            "ProdName": "波蘭LoLo 鼠兔棒棒糖(蘋果)",
+            "Model": "85g",
+            "PriceOrigin": 130,
+            "ProdDisc": "波蘭LoLo 鼠兔棒棒糖(蘋果)",
+            "Img": "images/product/CC6.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC007",
+            "ProdName": "波蘭LoLo 鼠兔棒棒糖(蔬菜)",
+            "Model": "1kg",
+            "PriceOrigin": 345,
+            "ProdDisc": "波蘭LoLo 鼠兔棒棒糖(蔬菜)",
+            "Img": "images/product/CC7.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC008",
+            "ProdName": "PINKIN 綜合蔬果大餐",
+            "Model": "500g",
+            "PriceOrigin": 200,
+            "ProdDisc": "PINKIN 綜合蔬果大餐",
+            "Img": "images/product/CC8.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC009",
+            "ProdName": "PINKIN 綜合水果乾",
+            "Model": "90g",
+            "PriceOrigin": 95,
+            "ProdDisc": "PINKIN 綜合水果乾",
+            "Img": "images/product/CC9.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC010",
+            "ProdName": "PINKIN 卡滋水果磨牙食",
+            "Model": "90g",
+            "PriceOrigin": 95,
+            "ProdDisc": "PINKIN 卡滋水果磨牙食",
+            "Img": "images/product/CC10.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC011",
+            "ProdName": "魔法村Pet Village 小動物天然芒果乾",
+            "Model": "90g",
+            "PriceOrigin": 95,
+            "ProdDisc": "魔法村Pet Village 小動物天然芒果乾",
+            "Img": "images/product/CC11.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC012",
+            "ProdName": "魔法村Pet Village 小動物天然奇異果乾",
+            "Model": "40g",
+            "PriceOrigin": 45,
+            "ProdDisc": "魔法村Pet Village 小動物天然奇異果乾",
+            "Img": "images/product/CC12.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC013",
+            "ProdName": "凡賽爾天然Nature-特級點心寶(穀物點心)",
+            "Model": "120g",
+            "PriceOrigin": 90,
+            "ProdDisc": "凡賽爾天然Nature-特級點心寶(穀物點心)",
+            "Img": "images/product/CC13.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC014",
+            "ProdName": "凡賽爾天然Nature 特級點心寶(漿果)",
+            "Model": "120g",
+            "PriceOrigin": 90,
+            "ProdDisc": "凡賽爾天然Nature 特級點心寶(漿果)",
+            "Img": "images/product/CC14.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC015",
+            "ProdName": "PINKIN 美味甜甜圈",
+            "Model": "100g",
+            "PriceOrigin": 55,
+            "ProdDisc": "PINKIN 美味甜甜圈",
+            "Img": "images/product/CC15.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC016",
+            "ProdName": "凡賽爾天然Nature 特級點心寶(水果)",
+            "Model": "100g",
+            "PriceOrigin": 55,
+            "ProdDisc": "凡賽爾天然Nature 特級點心寶(水果)",
+            "Img": "images/product/CC16.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC017",
+            "ProdName": "PINKIN 天然杏仁果",
+            "Model": "100g",
+            "PriceOrigin": 55,
+            "ProdDisc": "PINKIN 天然杏仁果",
+            "Img": "images/product/CC17.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC018",
+            "ProdName": "PINKIN 天然小魚乾",
+            "Model": "50g",
+            "PriceOrigin": 90,
+            "ProdDisc": "PINKIN 天然小魚乾",
+            "Img": "images/product/CC18.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC019",
+            "ProdName": "凡賽爾天然Nature-特級點心寶(高纖點心)",
+            "Model": "130g",
+            "PriceOrigin": 88,
+            "ProdDisc": "凡賽爾天然Nature-特級點心寶(高纖點心)",
+            "Img": "images/product/CC19.jpg",
+            "CategoryID": "CC"
+        },
+        {
+            "ProdID": "CC020",
+            "ProdName": "波蘭LoLo 小動物礦物質磨牙石(蔬菜)",
+            "Model": "130g",
+            "PriceOrigin": 88,
+            "ProdDisc": "波蘭LoLo 小動物礦物質磨牙石(蔬菜)",
+            "Img": "images/product/CC20.jpg",
+            "CategoryID": "CC"
+        }
+    ]
+}

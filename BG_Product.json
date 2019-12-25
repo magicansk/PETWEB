@@ -1,0 +1,166 @@
+{
+    "BG": [
+        {
+            "ProdID": "BG001",
+            "ProdName": "貓用鈴鐺玩具球-咖啡色(6入盒裝)",
+            "Model": "",
+            "PriceOrigin": 199,
+            "ProdDisc": "貓用鈴鐺玩具球-咖啡色(6入盒裝)",
+            "Img": "images/product/BG1.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG002",
+            "ProdName": "貓用鈴鐺玩具球-粉色(6入盒裝)",
+            "Model": "",
+            "PriceOrigin": 199,
+            "ProdDisc": "貓用鈴鐺玩具球-粉色(6入盒裝)",
+            "Img": "images/product/BG2.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG003",
+            "ProdName": "木桿可愛造型逗貓棒",
+            "Model": "",
+            "PriceOrigin": 129,
+            "ProdDisc": "木桿可愛造型逗貓棒",
+            "Img": "images/product/BG3.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG004",
+            "ProdName": "Amy Carol鋼絲系列 貴族逗貓棒",
+            "Model": "",
+            "PriceOrigin": 155,
+            "ProdDisc": "Amy Carol鋼絲系列 貴族逗貓棒",
+            "Img": "images/product/BG4.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG005",
+            "ProdName": "Amy Carol花朵系列 伸縮釣竿逗貓棒",
+            "Model": "",
+            "PriceOrigin": 165,
+            "ProdDisc": "Amy Carol花朵系列 伸縮釣竿逗貓棒",
+            "Img": "images/product/BG5.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG006",
+            "ProdName": "彈性鋼絲逗貓棒",
+            "Model": "",
+            "PriceOrigin": 60,
+            "ProdDisc": "彈性鋼絲逗貓棒",
+            "Img": "images/product/BG6.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG007",
+            "ProdName": "日本CattyMan-日製貓用懸掛式自動逗貓玩具(花朵)",
+            "Model": "",
+            "PriceOrigin": 135,
+            "ProdDisc": "日本CattyMan-日製貓用懸掛式自動逗貓玩具(花朵)",
+            "Img": "images/product/BG7.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG008",
+            "ProdName": "台灣製造-幸福貓屋(甜心巧克力)",
+            "Model": "",
+            "PriceOrigin": 359,
+            "ProdDisc": "台灣製造-幸福貓屋(甜心巧克力)",
+            "Img": "images/product/BG8.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG009",
+            "ProdName": "台灣製造-幸福貓屋(原色)",
+            "Model": "",
+            "PriceOrigin": 359,
+            "ProdDisc": "台灣製造-幸福貓屋(原色)",
+            "Img": "images/product/BG9.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG010",
+            "ProdName": "Woody透氣側背網包L-橘色",
+            "Model": "",
+            "PriceOrigin": 530,
+            "ProdDisc": "Woody透氣側背網包L-橘色",
+            "Img": "images/product/BG10.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG011",
+            "ProdName": "日本Richell-卡羅可替換式貓抓板(米)",
+            "Model": "",
+            "PriceOrigin": 530,
+            "ProdDisc": "日本Richell-卡羅可替換式貓抓板(米)",
+            "Img": "images/product/BG11.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG012",
+            "ProdName": "MARUKAN-圓形磨爪墊",
+            "Model": "",
+            "PriceOrigin": 219,
+            "ProdDisc": "MARUKAN-圓形磨爪墊",
+            "Img": "images/product/BG12.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG013",
+            "ProdName": "沛奇-毛絨白球圓形貓抓板",
+            "Model": "",
+            "PriceOrigin": 79,
+            "ProdDisc": "沛奇-毛絨白球圓形貓抓板",
+            "Img": "images/product/BG13.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG014",
+            "ProdName": "貓草魚造型抱枕玩具-鯉魚",
+            "Model": "",
+            "PriceOrigin": 299,
+            "ProdDisc": "貓草魚造型抱枕玩具-鯉魚",
+            "Img": "images/product/BG14.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG015",
+            "ProdName": "Richell-PICO休閒提籃(無軟墊)(橘)",
+            "Model": "",
+            "PriceOrigin": 1290,
+            "ProdDisc": "Richell-PICO休閒提籃(無軟墊)(橘)",
+            "Img": "images/product/BG15.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG016",
+            "ProdName": "Richell-PICO休閒提籃(無軟墊)(棕)",
+            "Model": "",
+            "PriceOrigin": 1290,
+            "ProdDisc": "Richell-PICO休閒提籃(無軟墊)(棕)",
+            "Img": "images/product/BG16.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG017",
+            "ProdName": "Richell-PICO休閒提籃(無軟墊)(粉)",
+            "Model": "",
+            "PriceOrigin": 1290,
+            "ProdDisc": "Richell-PICO休閒提籃(無軟墊)(粉)",
+            "Img": "images/product/BG17.jpg",
+            "CategoryID": "BG"
+        },
+        {
+            "ProdID": "BG018",
+            "ProdName": "Richell-PICO休閒提籃(無軟墊)(紫)",
+            "Model": "",
+            "PriceOrigin": 1290,
+            "ProdDisc": "Richell-PICO休閒提籃(無軟墊)(紫)",
+            "Img": "images/product/BG18.jpg",
+            "CategoryID": "BG"
+        }
+    ]
+}

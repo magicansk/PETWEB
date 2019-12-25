@@ -1,0 +1,112 @@
+{
+    "AC": [
+        {
+            "ProdID": "AC001",
+            "ProdName": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐90% 羊肉+鮭魚",
+            "Model": "12片",
+            "PriceOrigin": "1,500",
+            "ProdDisc": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐90% 羊肉+鮭魚",
+            "Img": "images/product/AC1.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC002",
+            "ProdName": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐90% 牛肉+鱈魚",
+            "Model": "12片",
+            "PriceOrigin": "1,500",
+            "ProdDisc": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐90% 牛肉+鱈魚",
+            "Img": "images/product/AC2.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC003",
+            "ProdName": "紐西蘭K9 Natural 生食餐(冷凍乾燥) 牛肉口味-幼犬配方",
+            "Model": "12片",
+            "PriceOrigin": "1,500",
+            "ProdDisc": "紐西蘭K9 Natural 生食餐(冷凍乾燥) 牛肉口味-幼犬配方",
+            "Img": "images/product/AC3.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC004",
+            "ProdName": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐 牛肚",
+            "Model": "12片",
+            "PriceOrigin": "1,500",
+            "ProdDisc": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐 牛肚",
+            "Img": "images/product/AC4.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC005",
+            "ProdName": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐 羊肚",
+            "Model": "12片",
+            "PriceOrigin": "1,500",
+            "ProdDisc": "紐西蘭K9 Natural冷凍乾燥狗狗生食餐 羊肚",
+            "Img": "images/product/AC5.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC006",
+            "ProdName": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(野撈鮮魚佐鮭魚綠唇貝)",
+            "Model": "12片",
+            "PriceOrigin": "1,500",
+            "ProdDisc": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(野撈鮮魚佐鮭魚綠唇貝)",
+            "Img": "images/product/AC6.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC007",
+            "ProdName": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(草原嫩羊佐鮭魚綠唇貝)",
+            "Model": "100G",
+            "PriceOrigin": 578,
+            "ProdDisc": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(草原嫩羊佐鮭魚綠唇貝)",
+            "Img": "images/product/AC7.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC008",
+            "ProdName": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(穀飼嫩雞佐鮭魚綠唇貝)",
+            "Model": "100G",
+            "PriceOrigin": 578,
+            "ProdDisc": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(穀飼嫩雞佐鮭魚綠唇貝)",
+            "Img": "images/product/AC8.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC009",
+            "ProdName": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(原野牧牛佐鮭魚綠唇貝)",
+            "Model": "1.8KG",
+            "PriceOrigin": 3808,
+            "ProdDisc": "Kiwi Kitchens奇異廚房-鮮肉生食饗宴(原野牧牛佐鮭魚綠唇貝)",
+            "Img": "images/product/AC9.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC010",
+            "ProdName": "紐西蘭 Woof 狗狗冷凍乾燥生食餐-羊肉口味",
+            "Model": "250G",
+            "PriceOrigin": 952,
+            "ProdDisc": "紐西蘭 Woof 狗狗冷凍乾燥生食餐-羊肉口味",
+            "Img": "images/product/AC10.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC011",
+            "ProdName": "紐西蘭 Woof 狗狗冷凍乾燥生食餐-雞肉口味",
+            "Model": "200G",
+            "PriceOrigin": 850,
+            "ProdDisc": "紐西蘭 Woof 狗狗冷凍乾燥生食餐-雞肉口味",
+            "Img": "images/product/AC11.jpg",
+            "CategoryID": "AC"
+        },
+        {
+            "ProdID": "AC012",
+            "ProdName": "紐西蘭woof狗狗冷凍乾燥生食餐-野生狐袋鼬",
+            "Model": "1.2KG",
+            "PriceOrigin": 2756,
+            "ProdDisc": "紐西蘭woof狗狗冷凍乾燥生食餐-野生狐袋鼬",
+            "Img": "images/product/AC12.jpg",
+            "CategoryID": "AC"
+        }
+    ]
+}

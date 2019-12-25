@@ -1,0 +1,193 @@
+{
+    "BC": [
+        {
+            "ProdID": "BC001",
+            "ProdName": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-鮮魚口味》",
+            "Model": "120g",
+            "PriceOrigin": 55,
+            "ProdDisc": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-鮮魚口味》",
+            "Img": "images/product/BC1.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC002",
+            "ProdName": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-雞肉口味》",
+            "Model": "120g",
+            "PriceOrigin": 60,
+            "ProdDisc": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-雞肉口味》",
+            "Img": "images/product/BC2.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC003",
+            "ProdName": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-火雞肉口味》",
+            "Model": "120g",
+            "PriceOrigin": 55,
+            "ProdDisc": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-火雞肉口味》",
+            "Img": "images/product/BC3.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC004",
+            "ProdName": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-雞肉佐螃蟹口味》",
+            "Model": "300g",
+            "PriceOrigin": 110,
+            "ProdDisc": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-雞肉佐螃蟹口味》",
+            "Img": "images/product/BC4.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC005",
+            "ProdName": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-牛肉佐鮭魚口味》",
+            "Model": "300g",
+            "PriceOrigin": 110,
+            "ProdDisc": "澳洲BIG DOG(BARF)巴夫《貓用生食肉餅-牛肉佐鮭魚口味》",
+            "Img": "images/product/BC5.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC006",
+            "ProdName": "紐西蘭 K9 Feline 貓糧生食餐(乾燥) 雞+羊",
+            "Model": "120g",
+            "PriceOrigin": 55,
+            "ProdDisc": "紐西蘭 K9 Feline 貓糧生食餐(乾燥) 雞+羊",
+            "Img": "images/product/BC6.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC007",
+            "ProdName": "紐西蘭K9 Natural冷凍乾燥貓咪生食餐99% 羊肉+鮭魚",
+            "Model": "300g",
+            "PriceOrigin": 110,
+            "ProdDisc": "紐西蘭K9 Natural冷凍乾燥貓咪生食餐99% 羊肉+鮭魚",
+            "Img": "images/product/BC7.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC008",
+            "ProdName": "紐西蘭K9 Natural冷凍乾燥貓咪生食餐99% 牛肉+鱈魚",
+            "Model": "300g",
+            "PriceOrigin": 145,
+            "ProdDisc": "紐西蘭K9 Natural冷凍乾燥貓咪生食餐99% 牛肉+鱈魚",
+            "Img": "images/product/BC8.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC009",
+            "ProdName": "Carnivore RAW卡尼生肉餐- 雞肉生肉餐110g 犬貓適合",
+            "Model": "300g",
+            "PriceOrigin": 110,
+            "ProdDisc": "Carnivore RAW卡尼生肉餐- 雞肉生肉餐110g 犬貓適合",
+            "Img": "images/product/BC9.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC010",
+            "ProdName": "Carnivore RAW卡尼生肉餐- 鴨肉生肉餐110g 犬貓適合",
+            "Model": "300g",
+            "PriceOrigin": 145,
+            "ProdDisc": "Carnivore RAW卡尼生肉餐- 鴨肉生肉餐110g 犬貓適合",
+            "Img": "images/product/BC10.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC011",
+            "ProdName": "主食生肉餐-汪喵沙西米 放牧鹿",
+            "Model": "300g",
+            "PriceOrigin": 145,
+            "ProdDisc": "主食生肉餐-汪喵沙西米 放牧鹿",
+            "Img": "images/product/BC11.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC012",
+            "ProdName": "主食生肉餐-汪喵沙西米 羅曼鵝",
+            "Model": "300g",
+            "PriceOrigin": 145,
+            "ProdDisc": "主食生肉餐-汪喵沙西米 羅曼鵝",
+            "Img": "images/product/BC12.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC013",
+            "ProdName": "貓咪95%鮮肉主食餐包 土雞佐薑黃",
+            "Model": "12包",
+            "PriceOrigin": 85,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 土雞佐薑黃",
+            "Img": "images/product/BC13.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC014",
+            "ProdName": "貓咪95%鮮肉主食餐包 土雞佐薑黃",
+            "Model": "12包",
+            "PriceOrigin": 960,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 土雞佐薑黃",
+            "Img": "images/product/BC14.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC015",
+            "ProdName": "貓咪95%鮮肉主食餐包 鰹魚佐蔓越莓",
+            "Model": "12包",
+            "PriceOrigin": 85,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 鰹魚佐蔓越莓",
+            "Img": "images/product/BC15.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC016",
+            "ProdName": "貓咪95%鮮肉主食餐包 鰹魚佐蔓越莓",
+            "Model": "12包",
+            "PriceOrigin": 960,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 鰹魚佐蔓越莓",
+            "Img": "images/product/BC16.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC017",
+            "ProdName": "貓咪95%鮮肉主食餐包 鮭魚佐紅石榴",
+            "Model": "12包",
+            "PriceOrigin": 85,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 鮭魚佐紅石榴",
+            "Img": "images/product/BC17.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC018",
+            "ProdName": "貓咪95%鮮肉主食餐包 鮭魚佐紅石榴",
+            "Model": "12包",
+            "PriceOrigin": 960,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 鮭魚佐紅石榴",
+            "Img": "images/product/BC18.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC019",
+            "ProdName": "貓咪95%鮮肉主食餐包 鴨肉佐朝鮮薊",
+            "Model": "12包",
+            "PriceOrigin": 85,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 鴨肉佐朝鮮薊",
+            "Img": "images/product/BC19.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC020",
+            "ProdName": "貓咪95%鮮肉主食餐包 鴨肉佐朝鮮薊",
+            "Model": "12包",
+            "PriceOrigin": 960,
+            "ProdDisc": "貓咪95%鮮肉主食餐包 鴨肉佐朝鮮薊",
+            "Img": "images/product/BC20.jpg",
+            "CategoryID": "BC"
+        },
+        {
+            "ProdID": "BC021",
+            "ProdName": "貓咪95%鮮肉主食餐包  綜合超值組",
+            "Model": "12包",
+            "PriceOrigin": 960,
+            "ProdDisc": "貓咪95%鮮肉主食餐包  綜合超值組",
+            "Img": "images/product/BC21.jpg",
+            "CategoryID": "BC"
+        }
+    ]
+}

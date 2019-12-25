@@ -1,0 +1,166 @@
+{
+    "BF": [
+        {
+            "ProdID": "BF001",
+            "ProdName": "格格-寵物直立變裝衣服★三種尺寸可挑選",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "格格-寵物直立變裝衣服★三種尺寸可挑選",
+            "Img": "images/product/BF1.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF002",
+            "ProdName": "日本Marukan-CT-378寵物造型頭飾(小球)",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "日本Marukan-CT-378寵物造型頭飾(小球)",
+            "Img": "images/product/BF2.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF003",
+            "ProdName": "日本Marukan-CT-377寵物造型頭飾(小花)",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "日本Marukan-CT-377寵物造型頭飾(小花)",
+            "Img": "images/product/BF3.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF004",
+            "ProdName": "日本Marukan-CT-376寵物造型頭飾(愛心)",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "日本Marukan-CT-376寵物造型頭飾(愛心)",
+            "Img": "images/product/BF4.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF005",
+            "ProdName": "西部牛仔裝 寵物衣服貓咪衣服",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "西部牛仔裝 寵物衣服貓咪衣服",
+            "Img": "images/product/BF5.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF006",
+            "ProdName": "恭喜發財春節寵物拜年裝 寵物衣服 貓咪衣服",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "恭喜發財春節寵物拜年裝 寵物衣服 貓咪衣服",
+            "Img": "images/product/BF6.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF007",
+            "ProdName": "牛仔寵物衣服 牛仔坐騎變裝衣 可愛造型寵物衣服 貓咪衣服",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "牛仔寵物衣服 牛仔坐騎變裝衣 可愛造型寵物衣服 貓咪衣服",
+            "Img": "images/product/BF7.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF008",
+            "ProdName": "寵物舞龍舞獅衣 搞笑寵物裝扮服 喜慶服裝 寵物衣服 貓咪衣服",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "寵物舞龍舞獅衣 搞笑寵物裝扮服 喜慶服裝 寵物衣服 貓咪衣服",
+            "Img": "images/product/BF8.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF009",
+            "ProdName": "滑稽寵物貓咪服飾",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "滑稽寵物貓咪服飾",
+            "Img": "images/product/BF9.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF010",
+            "ProdName": "紅杉貓咪運動服",
+            "Model": "",
+            "PriceOrigin": 225,
+            "ProdDisc": "紅杉貓咪運動服",
+            "Img": "images/product/BF10.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF011",
+            "ProdName": "日本CattyMan-貓用簡約花紋項圈系列 圓點紫",
+            "Model": "",
+            "PriceOrigin": 120,
+            "ProdDisc": "日本CattyMan-貓用簡約花紋項圈系列 圓點紫",
+            "Img": "images/product/BF11.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF012",
+            "ProdName": "日本CattyMan-貓用簡約花紋項圈系列 波斯橘",
+            "Model": "",
+            "PriceOrigin": 120,
+            "ProdDisc": "日本CattyMan-貓用簡約花紋項圈系列 波斯橘",
+            "Img": "images/product/BF12.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF013",
+            "ProdName": "日本CattyMan-貓用簡約花紋項圈系列 綠花草",
+            "Model": "",
+            "PriceOrigin": 120,
+            "ProdDisc": "日本CattyMan-貓用簡約花紋項圈系列 綠花草",
+            "Img": "images/product/BF13.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF014",
+            "ProdName": "寵物格格套裝 寵物衣服 貓咪衣服",
+            "Model": "",
+            "PriceOrigin": 600,
+            "ProdDisc": "寵物格格套裝 寵物衣服 貓咪衣服",
+            "Img": "images/product/BF14.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF015",
+            "ProdName": "日本CattyMan-貓用甜蜜鈴鐺附吊飾項圈系列 紅條紋",
+            "Model": "",
+            "PriceOrigin": 300,
+            "ProdDisc": "日本CattyMan-貓用甜蜜鈴鐺附吊飾項圈系列 紅條紋",
+            "Img": "images/product/BF15.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF016",
+            "ProdName": "日本CattyMan-貓用甜蜜附吊飾項圈系列 圓點藍",
+            "Model": "",
+            "PriceOrigin": 450,
+            "ProdDisc": "日本CattyMan-貓用甜蜜附吊飾項圈系列 圓點藍",
+            "Img": "images/product/BF16.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF017",
+            "ProdName": "日本CattyMan-貓用甜蜜附吊飾項圈系列 緞帶花",
+            "Model": "",
+            "PriceOrigin": 550,
+            "ProdDisc": "日本CattyMan-貓用甜蜜附吊飾項圈系列 緞帶花",
+            "Img": "images/product/BF17.jpg",
+            "CategoryID": "BF"
+        },
+        {
+            "ProdID": "BF018",
+            "ProdName": "日本CattyMan-貓用甜蜜附吊飾項圈系列 粉花朵",
+            "Model": "",
+            "PriceOrigin": 199,
+            "ProdDisc": "日本CattyMan-貓用甜蜜附吊飾項圈系列 粉花朵",
+            "Img": "images/product/BF18.jpg",
+            "CategoryID": "BF"
+        }
+    ]
+}

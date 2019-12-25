@@ -1,0 +1,139 @@
+{
+    "AB": [
+        {
+            "ProdID": "AB001",
+            "ProdName": "紐頓 T25 頂級天然主食罐 無穀鱒魚鮭魚挑嘴全齡犬",
+            "Model": "369g",
+            "PriceOrigin": 110,
+            "ProdDisc": "紐頓 T25 頂級天然主食罐 無穀鱒魚鮭魚挑嘴全齡犬",
+            "Img": "images/product/AB1.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB002",
+            "ProdName": "紐頓 T23 頂級天然主食罐 無穀火雞挑嘴全齡犬",
+            "Model": "369g",
+            "PriceOrigin": 110,
+            "ProdDisc": "紐頓 T23 頂級天然主食罐 無穀火雞挑嘴全齡犬",
+            "Img": "images/product/AB2.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB003",
+            "ProdName": "紐頓 S6 頂級天然主食罐 成犬雞肉南瓜",
+            "Model": "369g",
+            "PriceOrigin": 110,
+            "ProdDisc": "紐頓 S6 頂級天然主食罐 成犬雞肉南瓜",
+            "Img": "images/product/AB3.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB004",
+            "ProdName": "紐頓 S2 頂級天然主食罐 幼犬雞肉糙米",
+            "Model": "369g",
+            "PriceOrigin": 110,
+            "ProdDisc": "紐頓 S2 頂級天然主食罐 幼犬雞肉糙米",
+            "Img": "images/product/AB4.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB005",
+            "ProdName": "西莎 Cesar 主廚風味料理  蒔蘿焗烤菲力牛",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "西莎 Cesar 主廚風味料理  蒔蘿焗烤菲力牛",
+            "Img": "images/product/AB5.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB006",
+            "ProdName": "西莎 Cesar 主廚風味料理  蕃茄義大利麵燉牛",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "西莎 Cesar 主廚風味料理  蕃茄義大利麵燉牛",
+            "Img": "images/product/AB6.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB007",
+            "ProdName": "西莎 Cesar 主廚風味料理  杏桃香草燻雞",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "西莎 Cesar 主廚風味料理  杏桃香草燻雞",
+            "Img": "images/product/AB7.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB008",
+            "ProdName": "西莎 Cesar 主廚風味料理  南瓜波菜烤嫩雞",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "西莎 Cesar 主廚風味料理  南瓜波菜烤嫩雞",
+            "Img": "images/product/AB8.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB009",
+            "ProdName": "西莎 Cesar 主廚風味料理  鮮菇法式春雞",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "西莎 Cesar 主廚風味料理  鮮菇法式春雞",
+            "Img": "images/product/AB9.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB010",
+            "ProdName": "西莎 Cesar 主廚風味料理  野菜牛肉",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "西莎 Cesar 主廚風味料理  野菜牛肉",
+            "Img": "images/product/AB10.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB011",
+            "ProdName": "紐澳原裝『丹』DAN牛肉塊罐頭",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "紐澳原裝『丹』DAN牛肉塊罐頭",
+            "Img": "images/product/AB11.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB012",
+            "ProdName": "Ican大犬罐-美味牛肉+蔬菜",
+            "Model": "100g",
+            "PriceOrigin": 30,
+            "ProdDisc": "Ican大犬罐-美味牛肉+蔬菜",
+            "Img": "images/product/AB12.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB013",
+            "ProdName": "Dr. Wish 愛犬調整配方營養食 膳食纖維+果寡糖",
+            "Model": "85g",
+            "PriceOrigin": 28,
+            "ProdDisc": "Dr. Wish 愛犬調整配方營養食 膳食纖維+果寡糖",
+            "Img": "images/product/AB13.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB014",
+            "ProdName": "Dr. Wish 愛犬調整配方營養食 鮪魚油",
+            "Model": "85g",
+            "PriceOrigin": 28,
+            "ProdDisc": "Dr. Wish 愛犬調整配方營養食 鮪魚油",
+            "Img": "images/product/AB14.jpg",
+            "CategoryID": "AB"
+        },
+        {
+            "ProdID": "AB015",
+            "ProdName": "Dr. Wish 愛犬調整配方營養食 鈣+維他命D",
+            "Model": "85g",
+            "PriceOrigin": 28,
+            "ProdDisc": "Dr. Wish 愛犬調整配方營養食 鈣+維他命D",
+            "Img": "images/product/AB15.jpg",
+            "CategoryID": "AB"
+        }
+    ]
+}

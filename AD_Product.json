@@ -1,0 +1,112 @@
+{
+    "AD": [
+        {
+            "ProdID": "AD001",
+            "ProdName": "Lintbells．YuMOVE Dog優骼服驚奇版 120錠",
+            "Model": "120錠",
+            "PriceOrigin": 1800,
+            "ProdDisc": "Lintbells．YuMOVE Dog優骼服驚奇版 120錠",
+            "Img": "images/product/AD1.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD002",
+            "ProdName": "Lintbells．YuMOVE Dog優骼服驚奇版 300錠",
+            "Model": "300錠",
+            "PriceOrigin": 3880,
+            "ProdDisc": "Lintbells．YuMOVE Dog優骼服驚奇版 300錠",
+            "Img": "images/product/AD2.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD003",
+            "ProdName": "木入森．犬寶有關膝 關節保健 30錠",
+            "Model": "30錠",
+            "PriceOrigin": 460,
+            "ProdDisc": "木入森．犬寶有關膝 關節保健 30錠",
+            "Img": "images/product/AD3.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD004",
+            "ProdName": "木入森．犬寶有關膝 關節保健 60錠",
+            "Model": "60錠",
+            "PriceOrigin": 820,
+            "ProdDisc": "木入森．犬寶有關膝 關節保健 60錠",
+            "Img": "images/product/AD4.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD005",
+            "ProdName": "木入森．犬寶變不臭 腸胃保健 15包",
+            "Model": "15包",
+            "PriceOrigin": 315,
+            "ProdDisc": "木入森．犬寶變不臭 腸胃保健 15包",
+            "Img": "images/product/AD5.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD006",
+            "ProdName": "木入森．犬寶變不臭 腸胃保健 30包",
+            "Model": "30包",
+            "PriceOrigin": 495,
+            "ProdDisc": "木入森．犬寶變不臭 腸胃保健 30包",
+            "Img": "images/product/AD6.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD007",
+            "ProdName": "木入森．犬寶膚立好 皮膚保健 30粒",
+            "Model": "30粒",
+            "PriceOrigin": 465,
+            "ProdDisc": "木入森．犬寶膚立好 皮膚保健 30粒",
+            "Img": "images/product/AD7.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD008",
+            "ProdName": "木入森．犬寶膚立好 皮膚保健 60粒",
+            "Model": "60粒",
+            "PriceOrigin": 825,
+            "ProdDisc": "木入森．犬寶膚立好 皮膚保健 60粒",
+            "Img": "images/product/AD8.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD009",
+            "ProdName": "BLUE BAY倍力．維補力多益菌酵素(犬貓胃腸保健)100克",
+            "Model": "100克",
+            "PriceOrigin": 357,
+            "ProdDisc": "BLUE BAY倍力．維補力多益菌酵素(犬貓胃腸保健)100克",
+            "Img": "images/product/AD9.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD010",
+            "ProdName": "BLUE BAY倍力．藻麗寶 強效海藻胜粉100克",
+            "Model": "100克",
+            "PriceOrigin": 350,
+            "ProdDisc": "BLUE BAY倍力．藻麗寶 強效海藻胜粉100克",
+            "Img": "images/product/AD10.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD011",
+            "ProdName": "日本DoggyMan-澳洲犬用牛奶(老犬用)250ml",
+            "Model": "180克",
+            "PriceOrigin": 450,
+            "ProdDisc": "日本DoggyMan-澳洲犬用牛奶(老犬用)250ml",
+            "Img": "images/product/AD11.jpg",
+            "CategoryID": "AD"
+        },
+        {
+            "ProdID": "AD012",
+            "ProdName": "日本DoggyMan-澳洲犬用牛奶(成犬用)250ml",
+            "Model": "180克",
+            "PriceOrigin": 450,
+            "ProdDisc": "日本DoggyMan-澳洲犬用牛奶(成犬用)250ml",
+            "Img": "images/product/AD12.jpg",
+            "CategoryID": "AD"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "BD": [
+        {
+            "ProdID": "BD001",
+            "ProdName": "C.C.P挪威天然鮭魚油170ml",
+            "Model": "50g",
+            "PriceOrigin": 200,
+            "ProdDisc": "C.C.P挪威天然鮭魚油170ml",
+            "Img": "images/product/BD1.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD002",
+            "ProdName": "C.C.P高鈣羊奶粉350g",
+            "Model": "80g",
+            "PriceOrigin": 330,
+            "ProdDisc": "C.C.P高鈣羊奶粉350g",
+            "Img": "images/product/BD2.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD003",
+            "ProdName": "C.C.P骨骼保健鈣磷粉150g",
+            "Model": "1000g",
+            "PriceOrigin": 1699,
+            "ProdDisc": "C.C.P骨骼保健鈣磷粉150g",
+            "Img": "images/product/BD3.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD004",
+            "ProdName": "C.C.P天然綜合益生菌50g",
+            "Model": "50g",
+            "PriceOrigin": 200,
+            "ProdDisc": "C.C.P天然綜合益生菌50g",
+            "Img": "images/product/BD4.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD005",
+            "ProdName": "美國IN-PLUS贏貓用蔓越莓泌尿安30g(1gx30包入)",
+            "Model": "50g",
+            "PriceOrigin": 379,
+            "ProdDisc": "美國IN-PLUS贏貓用蔓越莓泌尿安30g(1gx30包入",
+            "Img": "images/product/BD5.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD006",
+            "ProdName": "美國IN-PLUS贏PA-5051貓用益生菌+牛磺酸30g(1gx30包入)",
+            "Model": "30g",
+            "PriceOrigin": 475,
+            "ProdDisc": "美國IN-PLUS贏PA-5051貓用益生菌+牛磺酸30g(1gx30包入)",
+            "Img": "images/product/BD6.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD007",
+            "ProdName": "美國IN-PLUS贏L-LYSINE貓用離胺酸30g(1gx30包入)",
+            "Model": "30g",
+            "PriceOrigin": 475,
+            "ProdDisc": "美國IN-PLUS贏L-LYSINE貓用離胺酸30g(1gx30包入)",
+            "Img": "images/product/BD7.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD008",
+            "ProdName": "PetNaturals寶天然健康嚼錠-腸胃好好貓嚼錠30粒(1.27oz/36g)",
+            "Model": "30g",
+            "PriceOrigin": 475,
+            "ProdDisc": "PetNaturals寶天然健康嚼錠-腸胃好好貓嚼錠30粒(1.27oz/36g)",
+            "Img": "images/product/BD8.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD009",
+            "ProdName": "PetNaturals寶天然健康嚼錠-排尿好好貓嚼錠60粒(2.65oz/75g)",
+            "Model": "18g",
+            "PriceOrigin": 315,
+            "ProdDisc": "PetNaturals寶天然健康嚼錠-排尿好好貓嚼錠60粒(2.65oz/75g)",
+            "Img": "images/product/BD9.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD010",
+            "ProdName": "PetNaturals寶天然健康嚼錠-免疫好好貓嚼錠60粒(3.17oz/90g)",
+            "Model": "200ml",
+            "PriceOrigin": 49,
+            "ProdDisc": "PetNaturals寶天然健康嚼錠-免疫好好貓嚼錠60粒(3.17oz/90g)",
+            "Img": "images/product/BD10.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD011",
+            "ProdName": "發育寶-S Care貓用奶粉",
+            "Model": "200g",
+            "PriceOrigin": 345,
+            "ProdDisc": "發育寶-S Care貓用奶粉",
+            "Img": "images/product/BD11.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD012",
+            "ProdName": "VIYO寵必優-貓貓健康飲品/營養液",
+            "Model": "30mlx7包入",
+            "PriceOrigin": 415,
+            "ProdDisc": "VIYO寵必優-貓貓健康飲品/營養液",
+            "Img": "images/product/BD12.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD013",
+            "ProdName": "發育寶-S貓用化毛膏120gm",
+            "Model": "120gm",
+            "PriceOrigin": 188,
+            "ProdDisc": "發育寶-S貓用化毛膏120gm",
+            "Img": "images/product/BD13.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD014",
+            "ProdName": "德國峻寶GimPet-貓草錠",
+            "Model": "50g",
+            "PriceOrigin": 99,
+            "ProdDisc": "德國峻寶GimPet-貓草錠",
+            "Img": "images/product/BD14.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD015",
+            "ProdName": "德國峻寶-加強型麥芽化毛膏",
+            "Model": "20g",
+            "PriceOrigin": 119,
+            "ProdDisc": "德國峻寶-加強型麥芽化毛膏",
+            "Img": "images/product/BD15.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD016",
+            "ProdName": "德國峻寶GimPet-綜合維他命B球",
+            "Model": "40g",
+            "PriceOrigin": 175,
+            "ProdDisc": "德國峻寶GimPet-綜合維他命B球",
+            "Img": "images/product/BD16.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD017",
+            "ProdName": "德國峻寶GimPet-貓咪營養起司球",
+            "Model": "50g",
+            "PriceOrigin": 175,
+            "ProdDisc": "德國峻寶GimPet-貓咪營養起司球",
+            "Img": "images/product/BD17.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD018",
+            "ProdName": "德國峻寶-加強型麥芽化毛膏",
+            "Model": "100g",
+            "PriceOrigin": 299,
+            "ProdDisc": "德國峻寶-加強型麥芽化毛膏",
+            "Img": "images/product/BD18.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD019",
+            "ProdName": "德國峻寶GimPet-超級維他命膏",
+            "Model": "20g",
+            "PriceOrigin": 99,
+            "ProdDisc": "德國峻寶GimPet-超級維他命膏",
+            "Img": "images/product/BD19.jpg",
+            "CategoryID": "BD"
+        },
+        {
+            "ProdID": "BD020",
+            "ProdName": "德國峻寶GimPet-超級維他命膏",
+            "Model": "100g",
+            "PriceOrigin": 405,
+            "ProdDisc": "德國峻寶GimPet-超級維他命膏",
+            "Img": "images/product/BD20.jpg",
+            "CategoryID": "BD"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "AE": [
+        {
+            "ProdID": "AE001",
+            "ProdName": "PANTOP鮮雞饗宴-雞小胸肉條100g",
+            "Model": "150kg",
+            "PriceOrigin": 176,
+            "ProdDisc": "PANTOP鮮雞饗宴-雞小胸肉條100g",
+            "Img": "images/product/AE1.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE002",
+            "ProdName": "PANTOP邦比-純粹天然零食/深海鯊魚軟骨100g",
+            "Model": "20cm",
+            "PriceOrigin": 295,
+            "ProdDisc": "PANTOP邦比-純粹天然零食/深海鯊魚軟骨100g",
+            "Img": "images/product/AE2.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE003",
+            "ProdName": "PANTOP邦比-純粹天然零食/天然香Q羊筋90g",
+            "Model": "80g",
+            "PriceOrigin": 299,
+            "ProdDisc": "PANTOP邦比-純粹天然零食/天然香Q羊筋90g",
+            "Img": "images/product/AE3.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE004",
+            "ProdName": "PANTOP邦比-消臭骨型餅(雞肉起司+綠色野菜)650g",
+            "Model": "120g",
+            "PriceOrigin": 316,
+            "ProdDisc": "PANTOP邦比-消臭骨型餅(雞肉起司+綠色野菜)650g",
+            "Img": "images/product/AE4.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE005",
+            "ProdName": "PANTOP邦比-消臭骨型餅(羊肉+鈣+胡蘿蔔)650g",
+            "Model": "130g",
+            "PriceOrigin": 879,
+            "ProdDisc": "PANTOP邦比-消臭骨型餅(羊肉+鈣+胡蘿蔔)650g",
+            "Img": "images/product/AE5.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE006",
+            "ProdName": "PANTOP邦比-消臭骨型餅(綜合口味)650g",
+            "Model": "300g/包",
+            "PriceOrigin": 328,
+            "ProdDisc": "PANTOP邦比-消臭骨型餅(綜合口味)650g",
+            "Img": "images/product/AE6.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE007",
+            "ProdName": "PANTOP鮮雞饗宴-軟雞肉絲100g",
+            "Model": "360g",
+            "PriceOrigin": 252,
+            "ProdDisc": "PANTOP鮮雞饗宴-軟雞肉絲100g",
+            "Img": "images/product/AE7.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE008",
+            "ProdName": "PANTOP鮮雞饗宴-地瓜條卷雞小胸肉100g",
+            "Model": "100g-3包",
+            "PriceOrigin": 258,
+            "ProdDisc": "PANTOP鮮雞饗宴-地瓜條卷雞小胸肉100g",
+            "Img": "images/product/AE8.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE009",
+            "ProdName": "PANTOP邦比-純粹天然零食/香酥羊肋排180g",
+            "Model": "25mm/500g",
+            "PriceOrigin": 740,
+            "ProdDisc": "PANTOP邦比-純粹天然零食/香酥羊肋排180g",
+            "Img": "images/product/AE9.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE010",
+            "ProdName": "PANTOP邦比-純粹天然零食/特選雞胗100g",
+            "Model": "170g",
+            "PriceOrigin": 135,
+            "ProdDisc": "PANTOP邦比-純粹天然零食/特選雞胗100g",
+            "Img": "images/product/AE10.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE011",
+            "ProdName": "PANTOP邦比-純粹天然零食/特選低脂羊肉片90g",
+            "Model": "170g",
+            "PriceOrigin": 185,
+            "ProdDisc": "PANTOP邦比-純粹天然零食/特選低脂羊肉片90g",
+            "Img": "images/product/AE11.jpg",
+            "CategoryID": "AE"
+        },
+        {
+            "ProdID": "AE012",
+            "ProdName": "PANTOP邦比-純粹天然零食/特選低脂羊肉塊90g",
+            "Model": "170g",
+            "PriceOrigin": 250,
+            "ProdDisc": "PANTOP邦比-純粹天然零食/特選低脂羊肉塊90g",
+            "Img": "images/product/AE12.jpg",
+            "CategoryID": "AE"
+        }
+    ]
+}

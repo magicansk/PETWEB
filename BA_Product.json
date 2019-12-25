@@ -1,0 +1,202 @@
+{
+    "BA": [
+        {
+            "ProdID": "BA001",
+            "ProdName": "希爾思-成貓1-6歲毛球控制(雞肉特調食譜)",
+            "Model": "1.58KG",
+            "PriceOrigin": 600,
+            "ProdDisc": "希爾思-成貓1-6歲毛球控制(雞肉特調食譜)",
+            "Img": "images/product/BA1.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA002",
+            "ProdName": "希爾思-成貓1-6歲毛球控制低卡(雞肉特調食譜)",
+            "Model": "1.58KG",
+            "PriceOrigin": 600,
+            "ProdDisc": "希爾思-成貓1-6歲毛球控制低卡(雞肉特調食譜)",
+            "Img": "images/product/BA2.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA003",
+            "ProdName": "希爾思-天然成貓(雞肉+糙米)",
+            "Model": "1.58KG",
+            "PriceOrigin": 600,
+            "ProdDisc": "希爾思-天然成貓(雞肉+糙米)",
+            "Img": "images/product/BA3.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA004",
+            "ProdName": "希爾思-成貓敏感胃腸與皮膚(雞肉與米特調食譜)",
+            "Model": "1.58KG",
+            "PriceOrigin": 600,
+            "ProdDisc": "希爾思-成貓敏感胃腸與皮膚(雞肉與米特調食譜)",
+            "Img": "images/product/BA4.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA005",
+            "ProdName": "希爾思-成貓完美體重(雞肉特調食譜)",
+            "Model": "3.17KG",
+            "PriceOrigin": 1200,
+            "ProdDisc": "希爾思-成貓完美體重(雞肉特調食譜)",
+            "Img": "images/product/BA5.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA006",
+            "ProdName": "希爾思-成貓7歲以上毛球控制(雞肉特調食譜)",
+            "Model": "3.17KG",
+            "PriceOrigin": 1200,
+            "ProdDisc": "希爾思-成貓7歲以上毛球控制(雞肉特調食譜)",
+            "Img": "images/product/BA6.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA007",
+            "ProdName": "希爾思貓咪乾飼料-雞肉3.17KG",
+            "Model": "3.17KG",
+            "PriceOrigin": 1200,
+            "ProdDisc": "希爾思貓咪乾飼料-雞肉3.17KG",
+            "Img": "images/product/BA7.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA008",
+            "ProdName": "希爾思-成貓11歲以上(雞肉特調食譜)",
+            "Model": "3.17KG",
+            "PriceOrigin": 1200,
+            "ProdDisc": "希爾思-成貓11歲以上(雞肉特調食譜)",
+            "Img": "images/product/BA8.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA009",
+            "ProdName": "希爾思-幼貓(雞肉特調食譜)",
+            "Model": "7.03KG",
+            "PriceOrigin": 2200,
+            "ProdDisc": "希爾思-幼貓(雞肉特調食譜)",
+            "Img": "images/product/BA9.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA010",
+            "ProdName": "法國皇家-IN+7室內熟齡貓飼料",
+            "Model": "7.03KG",
+            "PriceOrigin": 2200,
+            "ProdDisc": "法國皇家-IN+7室內熟齡貓飼料",
+            "Img": "images/product/BA10.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA011",
+            "ProdName": "希爾思貓咪乾飼料-雞肉7.03KG",
+            "Model": "7.03KG",
+            "PriceOrigin": 2200,
+            "ProdDisc": "希爾思貓咪乾飼料-雞肉7.03KG",
+            "Img": "images/product/BA11.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA012",
+            "ProdName": "希爾思貓咪乾飼料-雞肉_泌尿道毛球控制7.03KG",
+            "Model": "7.03KG",
+            "PriceOrigin": 2200,
+            "ProdDisc": "希爾思貓咪乾飼料-雞肉_泌尿道毛球控制7.03KG",
+            "Img": "images/product/BA12.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA013",
+            "ProdName": "偉嘉貓咪乾飼料-化毛配方3KG",
+            "Model": "3KG",
+            "PriceOrigin": 350,
+            "ProdDisc": "偉嘉貓咪乾飼料-化毛配方3KG",
+            "Img": "images/product/BA13.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA014",
+            "ProdName": "偉嘉貓咪乾飼料-海洋魚類3KG",
+            "Model": "3KG",
+            "PriceOrigin": 350,
+            "ProdDisc": "偉嘉貓咪乾飼料-海洋魚類3KG",
+            "Img": "images/product/BA14.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA015",
+            "ProdName": "偉嘉貓咪乾飼料-海鯛鮮蝦3KG",
+            "Model": "3KG",
+            "PriceOrigin": 350,
+            "ProdDisc": "偉嘉貓咪乾飼料-海鯛鮮蝦3KG",
+            "Img": "images/product/BA15.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA016",
+            "ProdName": "偉嘉貓咪乾飼料-鮪魚總匯3KG",
+            "Model": "3KG",
+            "PriceOrigin": 350,
+            "ProdDisc": "偉嘉貓咪乾飼料-鮪魚總匯3KG",
+            "Img": "images/product/BA16.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA017",
+            "ProdName": "偉嘉貓咪乾飼料-干貝口味3KG",
+            "Model": "3KG",
+            "PriceOrigin": 350,
+            "ProdDisc": "偉嘉貓咪乾飼料-干貝口味3KG",
+            "Img": "images/product/BA17.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA018",
+            "ProdName": "偉嘉貓咪乾飼料-化毛配方7KG",
+            "Model": "7KG",
+            "PriceOrigin": 700,
+            "ProdDisc": "偉嘉貓咪乾飼料-化毛配方7KG",
+            "Img": "images/product/BA18.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA019",
+            "ProdName": "偉嘉貓咪乾飼料-海洋魚類KG",
+            "Model": "7KG",
+            "PriceOrigin": 700,
+            "ProdDisc": "偉嘉貓咪乾飼料-海洋魚類KG",
+            "Img": "images/product/BA19.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA020",
+            "ProdName": "偉嘉貓咪乾飼料-海鯛鮮蝦7KG",
+            "Model": "7KG",
+            "PriceOrigin": 700,
+            "ProdDisc": "偉嘉貓咪乾飼料-海鯛鮮蝦7KG",
+            "Img": "images/product/BA20.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA021",
+            "ProdName": "偉嘉貓咪乾飼料-干貝口味7KG",
+            "Model": "7KG",
+            "PriceOrigin": 700,
+            "ProdDisc": "偉嘉貓咪乾飼料-干貝口味7KG",
+            "Img": "images/product/BA21.jpg",
+            "CategoryID": "BA"
+        },
+        {
+            "ProdID": "BA022",
+            "ProdName": "偉嘉貓咪乾飼料-鮪魚總匯7KG",
+            "Model": "7KG",
+            "PriceOrigin": 700,
+            "ProdDisc": "偉嘉貓咪乾飼料-鮪魚總匯7KG",
+            "Img": "images/product/BA22.jpg",
+            "CategoryID": "BA"
+        }
+    ]
+}
