@@ -13,7 +13,6 @@ $notlook = $db_link->query($failure);
 $goodman = $notlook->fetch_assoc();
 $paired_n = $goodman['pa_n'];
 $p_id = $goodman['p_id'];
-
 //這是我要跟這人做朋友但他不要 讀完之後 就不會顯示
 if (isset($_GET["action"]) && ($_GET["action"] == "iread")) {
   $query_update = "UPDATE paired set look = 'T' where pa_n=$paired_n ";
