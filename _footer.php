@@ -11,7 +11,8 @@
             客服專線: 0800-000-000</br>
             營業時間: 週一至週五 AM 10:00-12:00, PM 13:30-18:00</br>
             E-mail: service@pets.com.tw</br>
-            <b>此網頁為非營利用途，以教學目的使用，謝謝!!</b>
+            <b>Website Environment is Maintained and Run by github user: @magicansk
+              此網頁為非營利用途，以教學目的使用，謝謝!!</b>
         </div>
     </div>
     <div class="sidebar">
